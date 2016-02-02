@@ -1,0 +1,14 @@
+<script type="text/javascript" src="~/js/photo-info.js"></script>
+
+
+
+<script>
+    $("img.lazy").lazyload({
+        effect: "fadeIn"
+    });
+</script>
+
+
+
+
+<img class="lazy img-responsive" data-original="" width="" height="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" />
