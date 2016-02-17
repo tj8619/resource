@@ -1,0 +1,41 @@
+<div class="step2 border-1px">
+  <div class="m step2-in ">
+    <div class="mt">
+      <div class="s2-name"><i></i>田江</div>
+      <div class="s2-phone"><i></i>185****0250</div>
+    </div>
+    <div class="mc step2-in-con">北京朝阳区三环以内北京朝阳区三环以内建国门外大街丙24号京泰大厦1706-1709</div>
+  </div>
+  <b class="s2-borderT"></b>
+  <b class="s2-borderB"></b>
+</div>
+
+
+.step2 {
+    width: 100%;
+    margin-top: 10px;
+    position: relative;
+    top: 0;
+    background-color: #fffaf3;
+    padding: 22px 10px 19px 10px;
+}
+
+.step2 .s2-borderT {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAFCAIAAAACIXP3AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MjIyQkExRjJCMUI2MTFFNEEyMDNFNjcyOTdEQTZCRUIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MjIyQkExRjFCMUI2MTFFNEEyMDNFNjcyOTdEQTZCRUIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc0MTI4MkYxQjFCMTExRTQ4RjM3RDQ3NUVENjMxMkRDIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc0MTI4MkYyQjFCMTExRTQ4RjM3RDQ3NUVENjMxMkRDIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+erFnsgAAAOVJREFUeNq0lM0KglAQRufeq1BIJSIIgkujNtGmlvXKPUZQm8iVQhTUpiQX/UlXZ/IJKoWZBzgwh48jFgcNjc6QMPNUxwCuI8I4ptMJ+E4IORgI32fCI8E2w/0dv2lshrYMmHvKlGxqtMYooixjtG+acjQSts2EfyOs0jLN6ceOG6C9tpi6kk8+PJ/lZgOvF6N9y1LjMbRaTPi7puUFHwX9DklddL8rhz3BZ4au12r7UBSM4XGcavugFBP/nNM6LTX+V/Ja6Ikr/Tan/eMRk6SqP6P9IJBhWNWfib+7YZTh/w98BBgA/7JRnu9VHPIAAAAASUVORK5CYII=) repeat-x;
+    background-size: 64px 3px;
+}
+
+.step2 .s2-borderB {
+    position: absolute;
+    bottom: 1px;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAAFCAIAAAACIXP3AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MjIyQkExRjJCMUI2MTFFNEEyMDNFNjcyOTdEQTZCRUIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MjIyQkExRjFCMUI2MTFFNEEyMDNFNjcyOTdEQTZCRUIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc0MTI4MkYxQjFCMTExRTQ4RjM3RDQ3NUVENjMxMkRDIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc0MTI4MkYyQjFCMTExRTQ4RjM3RDQ3NUVENjMxMkRDIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+erFnsgAAAOVJREFUeNq0lM0KglAQRufeq1BIJSIIgkujNtGmlvXKPUZQm8iVQhTUpiQX/UlXZ/IJKoWZBzgwh48jFgcNjc6QMPNUxwCuI8I4ptMJ+E4IORgI32fCI8E2w/0dv2lshrYMmHvKlGxqtMYooixjtG+acjQSts2EfyOs0jLN6ceOG6C9tpi6kk8+PJ/lZgOvF6N9y1LjMbRaTPi7puUFHwX9DklddL8rhz3BZ4au12r7UBSM4XGcavugFBP/nNM6LTX+V/Ja6Ikr/Tan/eMRk6SqP6P9IJBhWNWfib+7YZTh/w98BBgA/7JRnu9VHPIAAAAASUVORK5CYII=) repeat-x;
+    background-size: 64px 3px;
+}
