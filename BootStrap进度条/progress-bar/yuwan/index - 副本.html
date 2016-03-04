@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link href="css/bootstrap.css" rel="stylesheet" media="screen">
+		<style>
+			.imgDiv {
+				text-align: center;
+				margin-bottom: 50px;;
+			}
+			.imgDiv img{
+				margin:0 auto;
+			}
+		</style>
+	    <script src="http://code.jquery.com/jquery.js"></script>
+	    <script src="js/bootstrap.js"></script>
+	</head>
+	<body>
+		<div class="container">
+		  <div class="row" style="padding-top:50px;">
+		  	<div class="imgDiv">
+		  	  <h1 style="display: none;">宝贝我爱你，我们要永远幸福的在一起！！加油！！</h1>
+		  	  <a href="###" id="guazi"><img id="img1" src="img/1.png" width="500" style=""></a>
+	  		  <img id="img2" src="img/2.png" style="display:none;" width="500">
+  			  <img id="img3" src="img/3.png" style="display:none;" width="500">
+		  	  <img id="img4" src="img/love.jpg" style="display:none;" width="500">
+		  	</div>
+		    <div class="bs-example" style="text-align:center;display: none;">
+	          <div class="progress" style="width:800px;margin:0 auto;">
+	            <div id="progress-bar" class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+	            	<span class="sr-only">0% Complete</span>
+	            </div>
+	          </div>
+	          <!--<button type="button" class="btn btn-default bs-docs-activate-animated-progressbar active" data-toggle="button" aria-pressed="true" autocomplete="off">开始</button>-->
+	        </div>
+	        <!--<div style="text-align: center;">
+	          <span id="curTime" style="margin:0 auto;margin-right:10px;">0:00</span>/
+	          <span id="totalTime" style="margin-left:10px;">3:22</span>
+	        </div>-->
+	      </div>
+	    </div>
+		
+		
+	    <script>
+	      var p = 0;
+	      /*var totalTime = $("#totalTime").html();
+	      var totalArray = totalTime.split(":");
+	      var totalCount = parseInt(totalArray[0] * 60) + parseInt(totalArray[1]);*/
+	      
+	      $(function(){
+	        //run();
+	        $("#guazi").click(function(){
+	        	$("#img1").fadeOut(500);
+	        	$("#img2").fadeIn(500);
+	        	$(".bs-example").fadeIn(500);
+	        	run();
+	        })
+	      });
+	      
+	      function run(){
+	        p += 5;
+	        $("#progress-bar").attr("style","width:"+p+"%");
+	        /*$("#curTime").html();*/
+	        if(p<100){
+	          if(p>50) {
+	            $("#img2").fadeOut(500);
+	        	$("#img3").fadeIn(500);
+	          }
+	          }else{
+	            $("#img3").fadeOut(500);
+	            $(".imgDiv h1").fadeIn(500);
+	            $("#img4").fadeIn(1000);
+	        }
+	        var timer=setTimeout("run()",1000);
+	      }
+	      
+      	</script>
+	</body>
+</html>
