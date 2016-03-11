@@ -1,0 +1,6032 @@
+.i-toefl-icobg {
+	overflow: hidden;
+	background: url(../img/toefl_ico.png) no-repeat;
+	display: inline-block;
+	vertical-align: middle
+}
+
+.i-toefl-cir-w {
+	width: 12px;
+	height: 12px;
+	background-position: 0 -21px
+}
+
+.i-toefl-sound-w {
+	width: 17px;
+	height: 16px;
+	background-position: 0 0
+}
+
+.i-toefl-wrong {
+	width: 12px;
+	height: 12px;
+	background-position: -87px -194px
+}
+
+.i-toefl-right {
+	width: 18px;
+	height: 13px;
+	background-position: -84px -173px
+}
+
+.i-toefl-warning {
+	width: 16px;
+	height: 18px;
+	background-position: -158px -406px
+}
+
+.i-sound-g {
+	width: 22px;
+	height: 19px;
+	background-position: -23px -2px
+}
+
+.i-sound-b {
+	width: 18px;
+	height: 18px;
+	background-position: -52px 0
+}
+
+.i-toefl-headset-g {
+	width: 16px;
+	height: 16px;
+	background-position: -111px -153px
+}
+
+.i-toefl-fav {
+	width: 19px;
+	height: 17px;
+	background-position: -53px -152px
+}
+
+.i-toefl-faved {
+	width: 19px;
+	height: 17px;
+	background-position: -81px -152px
+}
+
+.i-toefl-phone {
+	width: 14px;
+	height: 18px;
+	background-position: -3px -152px
+}
+
+.i-toefl-article {
+	width: 13px;
+	height: 13px;
+	background-position: -22px -173px
+}
+
+.i-toefl-headset-w {
+	width: 13px;
+	height: 13px;
+	background-position: 0 -173px
+}
+
+.i-toefl-play-h {
+	width: 14px;
+	height: 14px;
+	background-position: -45px -194px
+}
+
+.i-toefl-article-w {
+	width: 14px;
+	height: 14px;
+	background-position: -64px -173px
+}
+
+.i-toefl-article-w:hover {
+	background-position: -64px -194px
+}
+
+.i-toefl-play {
+	width: 14px;
+	height: 14px;
+	background-position: -45px -174px
+}
+
+.i-toefl-eye {
+	width: 21px;
+	height: 13px;
+	background-position: -110px -173px
+}
+
+.i-cir-w {
+	width: 22px;
+	height: 22px;
+	background-position: -20px -17px
+}
+
+.i-toefl-pen-g {
+	width: 14px;
+	height: 16px;
+	background-position: -171px -173px
+}
+
+.i-toefl-right-g {
+	width: 17px;
+	height: 16px;
+	background-position: -137px -173px
+}
+
+.i-rel-playing {
+	width: 24px;
+	height: 24px;
+	background-position: 0 -267px
+}
+
+.i-rel-repeat {
+	width: 24px;
+	height: 24px;
+	background-position: -36px -267px
+}
+
+.i-rel-complete {
+	width: 23px;
+	height: 23px;
+	background-position: -238px -267px
+}
+
+.i-rel-play {
+	width: 14px;
+	height: 18px;
+	background-position: -271px -267px
+}
+
+.i-rel-next {
+	width: 23px;
+	height: 16px;
+	background-position: -66px -267px
+}
+
+.i-rel-showlrc {
+	width: 19px;
+	height: 25px;
+	background-position: -104px -267px
+}
+
+.i-clock {
+	width: 25px;
+	height: 25px;
+	background-position: -138px -267px
+}
+
+.i-clock-arr {
+	width: 14px;
+	height: 14px;
+	background-position: -259px -173px
+}
+
+.i-part-c {
+	width: 16px;
+	height: 16px;
+	background-position: -52px -382px
+}
+
+.i-part-l {
+	width: 16px;
+	height: 16px;
+	background-position: -78px -382px
+}
+
+.i-part-s {
+	width: 16px;
+	height: 16px;
+	background-position: -104px -382px
+}
+
+.i-date-normal {
+	width: 59px;
+	height: 63px;
+	background-position: 0 -310px
+}
+
+.i-date-strong {
+	width: 59px;
+	height: 63px;
+	background-position: -65px -310px
+}
+
+.i-user-g {
+	width: 14px;
+	height: 15px;
+	background-position: -160px -152px
+}
+
+.i-article-ico {
+	width: 19px;
+	height: 19px;
+	background-position: -52px -406px
+}
+
+.i-question-ico {
+	width: 19px;
+	height: 19px;
+	background-position: -78px -406px
+}
+
+.i-paragraph-ico {
+	width: 19px;
+	height: 19px;
+	background-position: -104px -406px
+}
+
+.i-sentence-ico {
+	width: 19px;
+	height: 19px;
+	background-position: -130px -406px
+}
+
+.i-part-c-m {
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+	border: 1px solid #47b451;
+	background: #fff;
+	display: inline-block;
+	line-height: 24px;
+	text-align: center;
+	color: #47b451;
+	vertical-align: middle
+}
+
+.i-part-l-m {
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+	border: 1px solid #ff7800;
+	background: #fff;
+	display: inline-block;
+	line-height: 24px;
+	text-align: center;
+	color: #ff7800;
+	vertical-align: middle
+}
+
+.i-download-ico {
+	width: 15px;
+	height: 16px;
+	background-position: -264px -93px
+}
+
+.i-practise-ico {
+	width: 18px;
+	height: 18px;
+	background-position: -205px -152px
+}
+
+.i-music-ico {
+	width: 18px;
+	height: 21px;
+	background-position: -264px -50px
+}
+
+.i-toefl-crumb {
+	margin: 0 auto;
+	width: 980px
+}
+
+.i-toefl-crumb li {
+	float: left;
+	color: #666;
+	font-size: 16px
+}
+
+.i-toefl-crumb a {
+	color: #4c9aff
+}
+
+.i-toefl-crumb .split {
+	padding: 0 6px;
+	color: #bbb
+}
+
+.g-word-tool {
+	position: absolute;
+	z-index: 110;
+	height: 26px;
+	padding: 0 5px;
+	background: #515b72;
+	display: none;
+	border-radius: 3px;
+	white-space: nowrap;
+	word-wrap: normal
+}
+
+.g-word-tool a {
+	color: #fff
+}
+
+.g-word-tool a:hover {
+	opacity: .8;
+	text-decoration: none
+}
+
+.g-word-tool .menu {
+	height: 26px;
+	overflow: hidden;
+	display: inline-block;
+	vertical-align: middle;
+	font: 12px/26px simsun
+}
+
+.g-word-tool .split {
+	color: #798194;
+	vertical-align: middle
+}
+
+.g-word-tool .toolicobg {
+	margin-right: 4px;
+	background: url(../img/word.png) no-repeat;
+	display: inline-block;
+	vertical-align: middle
+}
+
+.g-word-tool .word-ico {
+	width: 12px;
+	height: 12px;
+	background-position: 0 -67px
+}
+
+.g-word-tool .note-ico {
+	width: 12px;
+	height: 12px;
+	background-position: -19px -67px
+}
+
+.g-word-tool .arrow {
+	position: absolute;
+	left: 50%;
+	bottom: -4px;
+	width: 0;
+	height: 0;
+	margin-left: -4px;
+	border-width: 4px 4px 0;
+	border-style: solid;
+	border-color: #515b72 transparent transparent
+}
+
+.g-word-translate {
+	position: absolute;
+	z-index: 110;
+	border: 1px solid #c6c6c6;
+	background: #fff url(../img/word_loading.gif) no-repeat center center;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.3)
+}
+
+.g-word-translate .word-icobg {
+	background: url(../img/word.png) no-repeat;
+	display: inline-block;
+	vertical-align: middle
+}
+
+.g-word-translate .sound-ico {
+	width: 12px;
+	height: 12px;
+	background-position: 0 -31px
+}
+
+.g-word-translate .fav-ico {
+	width: 13px;
+	height: 13px;
+	background-position: -16px -31px
+}
+
+.g-word-translate .faved-ico {
+	width: 13px;
+	height: 13px;
+	background-position: -16px -47px
+}
+
+.g-word-translate .pen-ico {
+	width: 13px;
+	height: 13px;
+	background-position: -32px -31px
+}
+
+.g-word-translate .inner {
+	padding: 8px 10px 0;
+	background: #fff
+}
+
+.g-word-translate .word-inner {
+	width: 260px
+}
+
+.g-word-translate .main {
+	min-height: 90px;
+	padding-bottom: 10px
+}
+
+.g-word-translate .word {
+	font-size: 16px
+}
+
+.g-word-translate .sound {
+	padding-bottom: 5px;
+	font-size: 12px
+}
+
+.g-word-translate .sound-mark {
+	padding-right: 8px;
+	color: #999
+}
+
+.g-word-translate .zh {
+	font-size: 12px;
+	line-height: 20px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+
+.g-word-translate .bottom-side {
+	border-top: 1px solid #dedede;
+	padding: 12px 0;
+	text-align: center
+}
+
+.g-word-translate .bottom-side .btn-analyze,.g-word-translate .bottom-side .btn-favorite {
+	width: 80px;
+	height: 22px;
+	overflow: hidden;
+	border: 1px solid #76c0ff;
+	border-radius: 5px;
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 20px;
+	text-align: center;
+	vertical-align: middle;
+	color: #4c91ff
+}
+
+.g-word-translate .bottom-side .btn-analyze:hover,.g-word-translate .bottom-side .btn-favorite:hover {
+	background: #f1f7fc;
+	text-decoration: none
+}
+
+.g-word-translate .bottom-side .btn-analyze .menu-text,.g-word-translate .bottom-side .btn-favorite .menu-text {
+	padding-left: 4px;
+	vertical-align: middle
+}
+
+.g-word-translate .nocontent {
+	height: 156px;
+	width: 282px;
+	background: url(../img/no_translate.jpg) no-repeat center top
+}
+
+.g-word-translate .note-inner {
+	background: #fff
+}
+
+.g-word-translate .note-inner .title-bar {
+	height: 35px;
+	border-bottom: 1px solid #dedede;
+	*width: 416px;
+	padding-left: 16px;
+	background: #f3f3f4;
+	line-height: 35px;
+	cursor: move
+}
+
+.g-word-translate .note-inner .editor {
+	width: 400px;
+	height: 200px;
+	overflow: hidden;
+	overflow-y: auto;
+	padding: 14px 0 0 16px;
+	border: 0 none;
+	background: 0 0;
+	font: 14px/22px Arial
+}
+
+.g-word-translate .note-inner .show-btn:hover {
+	text-decoration: none
+}
+
+.g-word-translate .note-inner .buttons {
+	padding: 16px;
+	border-top: 1px solid #dedede;
+	position: relative
+}
+
+.g-word-translate .note-inner .buttons .tips {
+	margin-top: 2px;
+	display: none;
+	font-size: 12px
+}
+
+.g-word-translate .note-inner .buttons .save-btn {
+	position: absolute;
+	width: 117px;
+	height: 49px;
+	right: 24px;
+	top: -34px;
+	background: url(../img/save-btn.png) no-repeat;
+	display: none
+}
+
+.g-word-translate .note-inner .note-save {
+	height: 22px;
+	overflow: hidden;
+	padding: 0 10px;
+	border: 1px solid #76c0ff;
+	border-radius: 5px;
+	display: inline-block;
+	line-height: 20px;
+	text-align: center;
+	vertical-align: middle;
+	color: #4c91ff
+}
+
+.g-word-translate .note-inner .note-cancel {
+	height: 24px;
+	overflow: hidden;
+	margin-left: 10px;
+	display: inline-block;
+	color: #999;
+	line-height: 24px;
+	vertical-align: middle
+}
+
+.g-word-translate .note-inner .note-save:hover {
+	background: #f1f7fc;
+	text-decoration: none
+}
+
+.g-word-translate .note-inner .btn-disabled,.g-word-translate .note-inner .btn-disabled:hover {
+	border: 1px solid #ccc;
+	background: #e7e7e7;
+	color: #bbb;
+	cursor: default
+}
+
+.g-kmf-coll_tips {
+	width: 117px;
+	height: 49px;
+	position: absolute;
+	display: none;
+	opacity: 1
+}
+
+.g-kmf-coll_tips .save-btn {
+	width: 100%;
+	height: 100%;
+	background: url(../img/save-btn.png) no-repeat;
+	position: relative
+}
+
+.g-kmf-coll_tips .save-btn span {
+	position: absolute;
+	width: 80px;
+	height: 38px;
+	line-height: 38px;
+	left: 35px;
+	top: 2px;
+	background: #fff
+}
+
+.i-toefl-ad-500 {
+	width: 250px;
+	overflow: hidden
+}
+
+.i-toefl-ad-500 a {
+	display: block;
+	width: 250px;
+	margin-bottom: 20px
+}
+
+.i-toefl-ad-500 a img {
+	width: 100%
+}
+
+.i-toefl-ad-160 {
+	width: 250px;
+	overflow: hidden
+}
+
+.i-toefl-ad-160 a {
+	display: block;
+	width: 250px;
+	margin-bottom: 20px
+}
+
+.i-toefl-ad-160 a img {
+	width: 100%
+}
+
+.i-toefl-ad-980 {
+	width: 980px;
+	overflow: hidden
+}
+
+.i-toefl-ad-980 a {
+	display: block;
+	width: 980px;
+	margin-bottom: 20px
+}
+
+.i-toefl-ad-980 a img {
+	width: 100%
+}
+
+.i-toefl-ad980 {
+	margin-top: -20px
+}
+
+.i-toefl-ad980 .ad-btn-show {
+	width: 980px;
+	height: 0;
+	font-size: 12px;
+	background: #fffce0;
+	line-height: 30px;
+	text-align: center;
+	margin-bottom: 10px;
+	cursor: pointer;
+	display: none
+}
+
+.i-toefl-ad980 .ad-btn {
+	position: relative;
+	margin: 0 auto;
+	width: 980px
+}
+
+.i-toefl-ad980 .btn {
+	position: absolute;
+	width: 88px;
+	height: 28px;
+	cursor: pointer;
+	right: 0;
+	bottom: 0;
+	text-align: center
+}
+
+.i-toefl-ad980 .ad-wrap {
+	width: 980px;
+	height: 280px;
+	position: relative;
+	margin: 0 auto 10px
+}
+
+.i-toefl-ad980 .btn-top-close {
+	text-indent: -9999px;
+	display: none;
+	background: url(../img/i-toefl-btns.png) 0 0 no-repeat;
+	z-index: 2
+}
+
+.i-toefl-ad980:hover .btn-top-close {
+	display: block
+}
+
+.i-toefl-ad980 .btn-top-close:hover {
+	background-position: 0 -28px
+}
+
+.i-toefl-ad980 .ad-wrap-img {
+	width: 980px;
+	height: 280px;
+	position: relative;
+	overflow: hidden
+}
+
+.i-toefl-ad980 .link {
+	width: 100%;
+	height: 100%;
+	display: block
+}
+
+.i-toefl-ad980 .ad-wrap-img img {
+	width: 980px;
+	height: 280px
+}
+
+.s-dialog-ad {
+	background: 0 0;
+	border-color: transparent
+}
+
+.s-dialog-ad .ui-dialog-titlebar {
+	height: 1px;
+	width: 980px;
+	position: relative;
+	padding: 0;
+	border: 0;
+	background: 0 0
+}
+
+.s-dialog-ad .ui-button {
+	top: -12px;
+	right: 2px;
+	position: absolute;
+	border-radius: 50%;
+	background-color: rgba(255,255,255,.6)
+}
+
+.s-dialog-ad .alert-buttons {
+	display: none
+}
+
+.toefl-top-feedback {
+	width: 980px;
+	height: 280px;
+	margin: -20px auto 10px
+}
+
+.toefl-top-feedback .feedback-go-to {
+	display: block;
+	width: 980px;
+	height: 280px
+}
+
+.toefl-top-feedback .left-feedback-video {
+	float: left;
+	width: 504px;
+	height: 280px;
+	overflow: hidden;
+	position: relative
+}
+
+.toefl-top-feedback .left-feedback-video .video {
+	position: absolute;
+	width: 504px;
+	height: 280px;
+	z-index: 5
+}
+
+.toefl-top-feedback .left-feedback-video .shadow {
+	position: absolute;
+	width: 504px;
+	height: 280px;
+	z-index: 10
+}
+
+.toefl-top-feedback .right-feedback-image {
+	float: left;
+	width: 476px;
+	height: 280px
+}
+
+.i-toefl-help-160 {
+	padding-top: 20px
+}
+
+.i-toefl-help-160 .word-span {
+	float: left;
+	height: 16px;
+	line-height: 16px;
+	background: #ff5c5d;
+	border-radius: 8px;
+	padding: 0 6px;
+	color: #fff;
+	margin: 12px 4px 0 0;
+	font-size: 12px
+}
+
+.i-toefl-help-160 .word-p>a {
+	float: left;
+	height: 16px;
+	line-height: 16px;
+	color: #666;
+	margin-top: 12px;
+	font-size: 12px
+}
+
+.i-toefl-help-160 .word-p>a:hover {
+	color: #4c91ff;
+	text-decoration: none
+}
+
+.i-toefl-help-160.word-help {
+	padding: 20px 14px 0
+}
+
+.i-toefl-help-160.write-word-help {
+	padding-top: 10px
+}
+
+.i-toefl-help-160.exam-word-help {
+	padding-top: 18px;
+	position: absolute;
+	top: 0;
+	left: 164px
+}
+
+.i-toefl-all-710 {
+	margin-bottom: 20px
+}
+
+.i-toefl-intensive {
+	position: absolute;
+	left: 260px;
+	right: 30px;
+	bottom: 22px;
+	z-index: 4
+}
+
+.i-toefl-listen-lt {
+	float: left;
+	padding-top: 20px;
+	margin-bottom: 0
+}
+
+.i-toefl-listen-top {
+	margin-top: 20px
+}
+
+.i-toefl-write-bt {
+	padding-left: 20px
+}
+
+.i-toefl-read-list {
+	margin: 20px 0 0
+}
+
+.i-toefl-listen-show div {
+	margin: 20px auto
+}
+
+.g-kmf-learnAd_Wrap {
+	width: 150px;
+	height: 574px;
+	position: absolute;
+	top: 135px;
+	left: 50%;
+	margin-left: -650px
+}
+
+.g-kmf-learnAd_Wrap .learnAd-wrap {
+	width: 150px;
+	height: 179px;
+	background: #fff;
+	position: absolute
+}
+
+.g-kmf-learnAd-replay {
+	position: relative;
+	width: 150px;
+	height: 179px;
+	background: #fff;
+	margin-bottom: 15px
+}
+
+.g-kmf-learnAd-replay .top-title {
+	height: 25px;
+	position: relative;
+	padding-top: 20px
+}
+
+.g-kmf-learnAd-replay .title-wrap {
+	width: 156px;
+	height: 30px;
+	position: absolute;
+	left: -3px;
+	background: url(../img/left-learn-ad.png) 0 0 no-repeat
+}
+
+.g-kmf-learnAd-replay .title-wrap h3 {
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	color: #fff
+}
+
+.g-kmf-learnAd-replay .up-title {
+	margin: 10px 10px 0;
+	text-align: center
+}
+
+.g-kmf-learnAd-replay .up-title-info {
+	font-size: 16px;
+	padding-bottom: 16px
+}
+
+.g-kmf-learnAd-replay .time-info {
+	font-size: 26px;
+	color: #ff7124
+}
+
+.g-kmf-learnAd-replay .title-wrap .free {
+	position: absolute;
+	top: -13px;
+	right: 9px;
+	width: 35px;
+	height: 18px;
+	background: url(../left-learn-ad.png) -158px 0 no-repeat;
+	text-align: center;
+	color: #fff;
+	font: 11px/13px "寰蒋闆呴粦"
+}
+
+.g-kmf-learnAd-replay .view-message {
+	width: 106px;
+	height: 32px;
+	line-height: 32px;
+	background: #4c91ff;
+	color: #fefefe!important;
+	margin-left: 12px;
+	border-radius: 2px
+}
+
+.g-kmf-learnAd-replay .view-message-not {
+	width: 106px;
+	height: 32px;
+	line-height: 32px;
+	background: #bfbfbf;
+	color: #fefefe!important;
+	margin-left: 12px;
+	border-radius: 2px
+}
+
+.g-kmf-learnAd-replay .view-message:hover {
+	text-decoration: none;
+	opacity: .8
+}
+
+.g-kmf-learnAd-replay .wrap-teachers {
+	padding: 20px 14px 0
+}
+
+.g-kmf-learnAd-replay .wrap-teachers-msg {
+	font-size: 18px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: #000;
+	font-weight: 700
+}
+
+.g-kmf-learnAd-replay .wrap-teachers-msg i {
+	font-size: 18px;
+	color: #000;
+	font-weight: 700
+}
+
+.g-kmf-learnAd-replay .wrap-message {
+	font-size: 14px;
+	color: #666;
+	padding-bottom: 8px
+}
+
+.g-kmf-learnAd-replay .wrpa-link-study {
+	display: block;
+	color: #4c91ff;
+	text-align: center
+}
+
+.g-kmf-learnAd-replay .wrpa-link-study:hover {
+	text-decoration: none
+}
+
+.g-kmf-learnAd-replay .learnAd-over {
+	opacity: 1
+}
+
+.g-kmf-learnAd-replay .learnAd-out {
+	opacity: 0
+}
+
+.g-kmf-learnAd {
+	width: 150px;
+	height: 373px;
+	position: relative;
+	z-index: 103
+}
+
+.g-kmf-learnAd .learn-ad-wrap {
+	height: 100%;
+	background: #fff
+}
+
+.g-kmf-learnAd .top-title {
+	height: 25px;
+	position: relative;
+	padding-top: 20px
+}
+
+.g-kmf-learnAd .title-wrap {
+	width: 156px;
+	height: 30px;
+	position: absolute;
+	left: -3px;
+	background: url(../img/left-learn-ad.png) 0 0 no-repeat
+}
+
+.g-kmf-learnAd .title-wrap h3 {
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	color: #fff
+}
+
+.g-kmf-learnAd .title-wrap .free {
+	position: absolute;
+	top: -13px;
+	right: 9px;
+	width: 35px;
+	height: 18px;
+	background: url(../img/left-learn-ad.png) -158px 0 no-repeat;
+	text-align: center;
+	color: #fff;
+	font: 11px/13px "寰蒋闆呴粦"
+}
+
+.g-kmf-learnAd .message {
+	margin: 10px 10px 0;
+	padding-bottom: 20px;
+	border-bottom: 1px dashed #dbdbdb
+}
+
+.g-kmf-learnAd .course-title {
+	font-size: 16px;
+	width: 130px;
+	height: 24px;
+	line-height: 24px;
+	text-align: center;
+	padding-bottom: 10px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+
+.g-kmf-learnAd .teacher-info {
+	padding-bottom: 14px
+}
+
+.g-kmf-learnAd .left-info {
+	width: 60px;
+	height: 60px;
+	float: left;
+	margin-right: 10px
+}
+
+.g-kmf-learnAd .left-info img {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%
+}
+
+.g-kmf-learnAd .right-info {
+	float: left
+}
+
+.g-kmf-learnAd .right-info span {
+	display: block
+}
+
+.g-kmf-learnAd .right-info span.teacher-import {
+	font-size: 12px;
+	height: 20px;
+	line-height: 20px;
+	padding: 6px 0 4px;
+	color: #666
+}
+
+.g-kmf-learnAd .right-info span.teacher-name {
+	font-size: 16px;
+	height: 24px;
+	line-height: 24px;
+	overflow: hidden;
+	width: 60px
+}
+
+.g-kmf-learnAd .view-message {
+	float: left;
+	width: 106px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	background: #4c91ff;
+	color: #fefefe;
+	margin-left: 12px;
+	border-radius: 2px
+}
+
+.g-kmf-learnAd .view-message:hover {
+	text-decoration: none;
+	opacity: .8
+}
+
+.g-kmf-learnAd .course-time {
+	padding: 16px 6px 0
+}
+
+.g-kmf-learnAd .times-back {
+	height: 22px;
+	line-height: 22px;
+	text-align: center;
+	font-size: 16px;
+	padding-bottom: 10px
+}
+
+.g-kmf-learnAd .back-info {
+	text-align: center
+}
+
+.g-kmf-learnAd .back-info .course-back-time {
+	font-size: 34px;
+	height: 60px;
+	line-height: 60px;
+	color: #ff7124
+}
+
+.g-kmf-learnAd .back-info .course-back-playing {
+	font-size: 40px;
+	height: 50px;
+	line-height: 50px;
+	color: #ff7124
+}
+
+.g-kmf-learnAd .back-info .go-classroom {
+	float: left;
+	width: 106px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	background: #4c91ff;
+	color: #fefefe;
+	border-radius: 2px;
+	margin: 8px 0 0 16px
+}
+
+.g-kmf-learnAd .back-info .go-classroom:hover {
+	text-decoration: none;
+	opacity: .8
+}
+
+.g-kmf-learnAd .back-info .time-notice {
+	font-size: 28px;
+	line-height: 30px;
+	text-align: center;
+	color: #ff7124;
+	padding: 12px 6px 0
+}
+
+.g-kmf-learnAd .learn-right-wrap {
+	position: absolute;
+	top: 0;
+	left: 153px;
+	width: 0;
+	height: 373px;
+	overflow: hidden
+}
+
+.g-kmf-learnAd .wrapall-mesg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 998px;
+	height: 373px;
+	background: #fff
+}
+
+.g-kmf-learnAd .wrapall-mesg-up {
+	padding: 20px 0 30px 26px
+}
+
+.g-kmf-learnAd .mesg-up-title {
+	float: left;
+	margin-right: 14px
+}
+
+.g-kmf-learnAd .mesg-up-title span {
+	float: left
+}
+
+.g-kmf-learnAd .mesg-title-info {
+	font-size: 24px;
+	line-height: 30px;
+	color: #4c91ff
+}
+
+.g-kmf-learnAd .mesg-circle {
+	width: 4px;
+	height: 4px;
+	border-radius: 2px;
+	background: #4c91ff;
+	margin: 14px 6px 0
+}
+
+.g-kmf-learnAd .stduy-time-info {
+	float: left;
+	height: 30px;
+	line-height: 38px;
+	color: #666
+}
+
+.g-kmf-learnAd .wrapall-mesg-down {
+	padding: 0 30px;
+	height: 250px
+}
+
+.g-kmf-learnAd .wrapall-mesg-down>div {
+	float: left;
+	height: 100%
+}
+
+.g-kmf-learnAd .mesg-down-left {
+	width: 255px;
+	padding-right: 36px;
+	border-right: 1px solid #e2e2e2
+}
+
+.g-kmf-learnAd .mesg-down-left .explain-title {
+	font-size: 18px;
+	line-height: 24px;
+	padding-bottom: 4px
+}
+
+.g-kmf-learnAd .mesg-down-left .announce-time {
+	font-size: 12px;
+	color: #999;
+	line-height: 24px
+}
+
+.g-kmf-learnAd .mesg-down-left .article-center {
+	font-size: 14px;
+	padding-top: 20px;
+	line-height: 28px
+}
+
+.g-kmf-learnAd .mesg-down-center {
+	width: 240px;
+	padding: 0 40px;
+	border-right: 1px solid #e2e2e2
+}
+
+.g-kmf-learnAd .mesg-down-center .teacher-info {
+	padding-bottom: 32px
+}
+
+.g-kmf-learnAd .mesg-down-center .teacher-info-left {
+	float: left;
+	margin-right: 8px;
+	width: 60px;
+	height: 60px;
+	overflow: hidden
+}
+
+.g-kmf-learnAd .mesg-down-center .teacher-info-left img {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%
+}
+
+.g-kmf-learnAd .mesg-down-center .teacher-info-right {
+	float: left;
+	width: 172px
+}
+
+.g-kmf-learnAd .mesg-down-center .teacher-info-name {
+	font-size: 18px;
+	line-height: 30px;
+	padding-bottom: 8px;
+	height: 24px;
+	width: 160px;
+	overflow: hidden
+}
+
+.g-kmf-learnAd .mesg-down-center .teacher-info-suggest {
+	font-size: 12px;
+	color: #666;
+	line-height: 24px
+}
+
+.g-kmf-learnAd .mesg-down-right {
+	padding-left: 40px
+}
+
+.g-kmf-learnAd .mesg-down-right .study-path {
+	font-size: 18px;
+	line-height: 26px;
+	padding-bottom: 10px
+}
+
+.g-kmf-learnAd .mesg-down-right .change-box {
+	padding-bottom: 32px
+}
+
+.g-kmf-learnAd .mesg-down-right .indicate {
+	height: 22px;
+	line-height: 22px;
+	color: #666
+}
+
+.g-kmf-learnAd .mesg-down-right .indicate span {
+	display: inline-block;
+	margin-left: 10px
+}
+
+.g-kmf-learnAd .mesg-down-right .ico-write {
+	width: 14px;
+	height: 14px;
+	background: url(../img/left-learn-ad.png) -202px 0 no-repeat
+}
+
+.g-kmf-learnAd .mesg-down-right .ico-playing {
+	width: 20px;
+	height: 12px;
+	background: url(../img/left-learn-ad.png) -222px 0 no-repeat
+}
+
+.g-kmf-learnAd .mesg-down-right .btn-write {
+	float: left;
+	width: 106px;
+	height: 32px;
+	border-radius: 2px;
+	line-height: 32px;
+	text-align: center;
+	color: #fefefe;
+	margin: 14px 0 0 12px
+}
+
+.g-kmf-learnAd .mesg-down-right .is-write {
+	background: #4c91ff
+}
+
+.g-kmf-learnAd .mesg-down-right .not-write {
+	background: #bfbfbf
+}
+
+.g-kmf-learnAd .mesg-down-right a:hover {
+	text-decoration: none;
+	opacity: .8
+}
+
+.g-kmf-learnAd .mesg-down-right .not-write:hover {
+	opacity: 1
+}
+
+.g-kmf-learnAd .mesg-down-right .practice-results {
+	float: left;
+	margin: 14px 0 0 20px;
+	height: 32px;
+	line-height: 32px;
+	color: #4c91ff
+}
+
+.g-kmf-learnAd .mesg-down-right .marked-words {
+	float: left;
+	margin: 14px 0 0 20px;
+	height: 32px;
+	line-height: 32px
+}
+
+.g-kmf-learnAd .mesg-down-right .color-black {
+	color: #333
+}
+
+.g-kmf-learnAd .mesg-down-right .color-orange {
+	color: #ff7124
+}
+
+#g-kmf-shade {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	z-index: 102;
+	filter: alpha(opacity=70);
+	opacity: .7;
+	background: #313131;
+	background: rgba(49,49,49,.7)
+}
+
+.g-kmf-learnAd .learn-btn-close {
+	position: absolute;
+	top: 373px;
+	left: 0;
+	width: 150px;
+	height: 24px;
+	background: #f8f8f8
+}
+
+.g-kmf-learnAd .learn-btn-close a {
+	font-size: 12px;
+	display: block;
+	height: 100%;
+	line-height: 24px;
+	text-align: center;
+	color: #C8C8C8
+}
+
+.g-kmf-learnAd .learn-btn-close a:hover {
+	text-decoration: none;
+	opacity: .5
+}
+
+.dotting {
+	display: inline-block;
+	width: 10px;
+	min-height: 2px;
+	border-left: 2px solid currentColor;
+	border-right: 2px solid currentColor;
+	background-color: currentColor;
+	background-clip: content-box;
+	box-sizing: border-box;
+	-webkit-animation: dot2 4s infinite step-start both;
+	animation: dot2 4s infinite step-start both
+}
+
+.dotting:before {
+	content: '...'
+}
+
+.dotting::before {
+	content: ''
+}
+
+:root .dotting {
+	margin-left: 2px;
+	padding-left: 2px;
+	padding-right: 2px
+}
+
+@-webkit-keyframes dot2 {
+	25% {
+		border-color: transparent;
+		background-color: transparent
+	}
+
+	50% {
+		border-right-color: transparent;
+		background-color: transparent
+	}
+
+	75% {
+		border-right-color: transparent
+	}
+}
+
+@keyframes dot2 {
+	25% {
+		border-color: transparent;
+		background-color: transparent
+	}
+
+	50% {
+		border-right-color: transparent;
+		background-color: transparent
+	}
+
+	75% {
+		border-right-color: transparent
+	}
+}
+
+.i-toefl-login-guide {
+	position: absolute;
+	left: 50%;
+	top: -300px;
+	z-index: 200;
+	width: 540px;
+	height: 276px;
+	margin-left: -270px
+}
+
+.i-toefl-login-guide .shadow {
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 1;
+	width: 540px;
+	height: 276px;
+	background: #8091b3;
+	opacity: .3;
+	filter: alpha(opacity=30)
+}
+
+.i-toefl-login-guide .guide-container {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	z-index: 3;
+	width: 530px;
+	height: 266px;
+	border: 1px solid #bec6d8;
+	background: #fff
+}
+
+.i-toefl-login-guide .topbar {
+	height: 49px;
+	overflow: hidden;
+	border-bottom: 1px solid #edeff5;
+	background: #f7f8f9
+}
+
+.i-toefl-login-guide .topbar .title {
+	padding-left: 19px;
+	line-height: 49px;
+	color: #59648f;
+	font-size: 16px
+}
+
+.i-toefl-login-guide .guide-close {
+	position: absolute;
+	top: 15px;
+	right: 12px;
+	width: 17px;
+	height: 17px;
+	display: block;
+	background: url(../css/img/common-ico.png) no-repeat 4px -180px;
+	border-radius: 1px;
+	text-indent: -10000px;
+	cursor: pointer;
+	-webkit-transition: all .2s ease-out;
+	-moz-transition: all .2s ease-out;
+	-ms-transition: all .2s ease-out;
+	transition: all .2s ease-out
+}
+
+.i-toefl-login-guide .guide-close:hover {
+	background-color: #e9e9e9
+}
+
+.i-toefl-login-guide .guide-body {
+	padding: 36px 30px 0 27px
+}
+
+.i-toefl-login-guide .chart {
+	float: left;
+	width: 281px;
+	height: 129px;
+	margin-right: 26px;
+	background: url(../img/login_guide.gif) no-repeat
+}
+
+.i-toefl-login-guide .buttons {
+	float: right;
+	width: 160px;
+	height: 135px;
+	border-left: 1px dotted #b3b3b3;
+	text-align: right;
+	font-size: 0;
+	line-height: 0
+}
+
+.i-toefl-login-guide .buttons .btn-guide-login {
+	width: 120px;
+	height: 34px;
+	overflow: hidden;
+	margin-bottom: 10px;
+	border: 1px solid #2f79ed;
+	border-radius: 2px;
+	background-color: #4a8cf7;
+	display: inline-block;
+	background-image: -moz-linear-gradient(bottom,#4787ed 0,#4d8ffd 100%);
+	background-image: -o-linear-gradient(bottom,#4787ed 0,#4d8ffd 100%);
+	background-image: -webkit-linear-gradient(bottom,#4787ed 0,#4d8ffd 100%);
+	background-image: linear-gradient(bottom,#4787ed 0,#4d8ffd 100%);
+	color: #fff;
+	text-align: center;
+	line-height: 34px;
+	font-size: 14px
+}
+
+.i-toefl-login-guide .buttons .btn-guide-register {
+	width: 120px;
+	height: 34px;
+	overflow: hidden;
+	margin-bottom: 10px;
+	border: 1px solid #c56321;
+	border-radius: 2px;
+	background-color: #f58339;
+	display: inline-block;
+	background-image: -moz-linear-gradient(bottom,#eb751e 0,#ff9054 100%);
+	background-image: -o-linear-gradient(bottom,#eb751e 0,#ff9054 100%);
+	background-image: -webkit-linear-gradient(bottom,#eb751e 0,#ff9054 100%);
+	background-image: linear-gradient(bottom,#eb751e 0,#ff9054 100%);
+	color: #fff;
+	text-align: center;
+	line-height: 34px;
+	font-size: 14px
+}
+
+.i-toefl-login-guide .buttons .btn-guide-ignore {
+	width: 120px;
+	height: 34px;
+	overflow: hidden;
+	border: 1px solid #a7a7a7;
+	border-radius: 2px;
+	background-color: #bebebe;
+	display: inline-block;
+	background-image: -moz-linear-gradient(bottom,#bcbcbc 0,#c1c1c1 100%);
+	background-image: -o-linear-gradient(bottom,#bcbcbc 0,#c1c1c1 100%);
+	background-image: -webkit-linear-gradient(bottom,#bcbcbc 0,#c1c1c1 100%);
+	background-image: linear-gradient(bottom,#bcbcbc 0,#c1c1c1 100%);
+	color: #fff;
+	text-align: center;
+	line-height: 34px;
+	font-size: 14px
+}
+
+.i-toefl-login-guide .buttons .btn-guide-ignore:hover,.i-toefl-login-guide .buttons .btn-guide-login:hover,.i-toefl-login-guide .buttons .btn-guide-register:hover {
+	opacity: .9;
+	text-decoration: none
+}
+
+.g-kmf-signin {
+	width: 100%;
+	background: #cacacb;
+	position: fixed;
+	bottom: 0;
+	z-index: 999;
+	display: none
+}
+
+.g-kmf-signin .content {
+	width: 980px;
+	margin: 0 auto;
+	padding: 14px 0 13px
+}
+
+.g-kmf-signin .content .login {
+	float: left;
+	font-size: 22px;
+	color: #333
+}
+
+.g-kmf-signin .content .login span {
+	color: #f60
+}
+
+.g-kmf-signin .login-button {
+	float: left;
+	margin-left: 50px
+}
+
+.g-kmf-signin .login-button a {
+	display: inline-block;
+	width: 122px;
+	height: 28px;
+	border-radius: 2px;
+	line-height: 28px;
+	text-align: center;
+	margin-right: 16px;
+	color: #fff
+}
+
+.g-kmf-signin .login-button a:hover {
+	text-decoration: none
+}
+
+.g-kmf-signin .login-button .login-in {
+	border: 1px solid #3079ed;
+	background: #4a8bf4
+}
+
+.g-kmf-signin .login-button .register {
+	border: 1px solid #c56422;
+	background: #f38135
+}
+
+.g-kmf-signin .login-third {
+	float: left;
+	margin: 6px 0 0 18px
+}
+
+.g-kmf-signin .login-third span {
+	float: left;
+	font-size: 16px
+}
+
+.g-kmf-signin .login-third ul {
+	float: left;
+	margin: 4px 0 0 12px
+}
+
+.g-kmf-signin .login-third ul li {
+	float: left;
+	height: 17px;
+	margin-right: 6px;
+	background: #ccc
+}
+
+.g-kmf-signin .login-third ul li a {
+	display: block;
+	width: 16px;
+	height: 17px
+}
+
+.g-kmf-signin .login-third ul li {
+	background-image: url(../img/signin-login.png);
+	background-repeat: no-repeat
+}
+
+.g-kmf-signin .login-third ul li.list-1 {
+	background-position: 0 0;
+	width: 16px
+}
+
+.g-kmf-signin .login-third ul li.list-2 {
+	background-position: -72px 0;
+	width: 22px
+}
+
+.g-kmf-signin .login-third ul li.list-3 {
+	background-position: -22px 0;
+	width: 22px
+}
+
+.g-kmf-signin .login-third ul li.list-4 {
+	background-position: -49px 0;
+	width: 17px
+}
+
+.g-kmf-signin .close-login {
+	float: left;
+	margin: 8px 0 0 18px;
+	width: 18px;
+	height: 18px;
+	cursor: pointer;
+	background: url(../ima/close-login.png) no-repeat
+}
+
+.i-toelf-sign {
+	position: relative;
+	height: 140px;
+	margin-bottom: 20px;
+	background: #fff;
+	cursor: pointer
+}
+
+.i-toelf-sign .daily-target {
+	padding: 20px 24px;
+	height: 96px;
+	border: 2px solid #fff
+}
+
+.i-toelf-sign .daily-target:hover {
+	border: 2px solid #fbc6a9
+}
+
+.i-toelf-sign .daily-target .title {
+	padding-bottom: 15px;
+	text-align: center
+}
+
+.i-toelf-sign .daily-target .def-content {
+	color: #bbb
+}
+
+.i-toelf-sign .daily-mask {
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 2;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: #000;
+	opacity: 0;
+	filter: alpha(opacity=0);
+	text-align: center;
+	color: #fff;
+	font-size: 18px;
+	line-height: 140px;
+	-webkit-transition: opacity .3s ease-in;
+	-moz-transition: opacity .3s ease-in;
+	-ms-transition: opacity .3s ease-in;
+	-o-transition: opacity .3s ease-in;
+	transition: opacity .3s ease-in
+}
+
+.i-toelf-sign:hover .daily-mask {
+	opacity: .4;
+	filter: alpha(opacity=40)
+}
+
+.s-sign-dialog .desc {
+	padding-bottom: 6px;
+	text-align: left;
+	font-size: 12px
+}
+
+.s-sign-dialog .alert-msg {
+	padding: 20px 30px
+}
+
+.s-sign-dialog .editor {
+	width: 460px;
+	height: 120px;
+	padding: 6px 0 0 6px;
+	border: 1px solid #f4f4f4
+}
+
+.i-toelf-newClock {
+	width: 250px;
+	margin-bottom: 20px
+}
+
+.i-toelf-newClock .hide {
+	display: none
+}
+
+.i-toelf-newClock .user-newClock {
+	width: 250px;
+	height: 117px
+}
+
+.i-toelf-newClock .user-newClock .clock {
+	display: block;
+	width: 250px;
+	height: 117px;
+	background: #fff
+}
+
+.i-toelf-newClock .user-newClock .clock:hover {
+	text-decoration: none;
+	color: #333
+}
+
+.i-toelf-newClock .user-newClock .top {
+	height: 69px;
+	background: url(../img/newClock.gif) 0 0 no-repeat;
+	text-indent: -9999px
+}
+
+.i-toelf-newClock .user-newClock .sign {
+	font-size: 12px;
+	line-height: 47px;
+	text-align: center;
+	height: 47px;
+	border: 1px solid #d2d2d2;
+	border-top: none
+}
+
+.i-toelf-newClock .user-newClock .sign span {
+	font-size: 18px;
+	line-height: 47px;
+	height: 47px;
+	color: #fc7829
+}
+
+.i-toelf-newClock .user-newTarget .top-target {
+	height: 50px;
+	border: 1px solid #d2d2d2;
+	background: #fafafa
+}
+
+.i-toelf-newClock .user-newTarget .top-target .left {
+	float: left;
+	height: 50px;
+	width: 130px
+}
+
+.i-toelf-newClock .user-newTarget .top-target span {
+	width: 15px;
+	height: 15px;
+	background: url(../img/newClock.png) 0 -122px no-repeat;
+	float: left;
+	margin: 19px 0 0 20px
+}
+
+.i-toelf-newClock .user-newTarget .top-target p {
+	float: left;
+	font-size: 20px;
+	line-height: 50px;
+	padding-left: 10px
+}
+
+.i-toelf-newClock .user-newTarget .top-target .right-preserve {
+	float: right;
+	font: 12px/50px "瀹嬩綋";
+	color: #4c91ff;
+	margin-right: 14px
+}
+
+.i-toelf-newClock .user-newTarget .top-target a:hover {
+	text-decoration: none
+}
+
+.i-toelf-newClock .user-newTarget .down-target {
+	width: 214px;
+	min-height: 85px;
+	background: #fff;
+	padding: 2px 16px;
+	line-height: 24px;
+	color: #666;
+	outline: 0 none;
+	border-style: solid;
+	border-width: 2px;
+	border-color: rgba(82,168,236,.8);
+	box-shadow: inset 0 1px 3px rgba(0,0,0,.1),0 0 8px rgba(82,168,236,.6)
+}
+
+.i-toelf-newClock .user-newTarget .target-content {
+	padding: 10px 20px;
+	border-bottom: 1px dashed #adadad;
+	border-left: 1px solid #d2d2d2;
+	border-right: 1px solid #d2d2d2;
+	line-height: 20px;
+	color: #666;
+	background: #fff
+}
+
+.i-toelf-newClock .user-newTarget .target-sign {
+	padding: 10px 20px;
+	background: #fff;
+	border: 1px solid #d2d2d2;
+	border-top: none
+}
+
+.i-toelf-newClock .user-newTarget .target-sign span {
+	font: 12px/20px "瀹嬩綋";
+	color: #666;
+	display: block
+}
+
+.i-toelf-newClock .user-newTarget .target-sign a {
+	font: 12px/20px "瀹嬩綋";
+	color: #4c91ff
+}
+
+.i-toelf-newClock .user-newTarget:hover .compile {
+	display: block
+}
+
+.i-toelf-newClock .user-newTarget:hover .target-content {
+	background: #fefdeb
+}
+
+.i-toelf-sign .btn-sign-new {
+	border: 1px solid #e2e2e2;
+	display: block;
+	width: 248px;
+	height: 138px;
+	background: url(../img/i-toelf-sign.jpg) no-repeat
+}
+
+.i-toelf-sign .btn-sign-new:hover {
+	text-decoration: none;
+	color: #333;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.1)
+}
+
+.i-toelf-sign .btn-sign-new p {
+	line-height: 26px;
+	padding-left: 15px
+}
+
+.i-toelf-sign .btn-sign-new .total-people {
+	padding-top: 16px
+}
+
+.i-toelf-sign .btn-sign-new .user-button {
+	width: 150px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+	padding-top: 14px
+}
+
+.i-toefl-shadowBg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #000;
+	background: rgba(0,0,0,.3);
+	z-index: 100;
+	display: none
+}
+
+.i-toefl-clockpopup {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin: -163px 0 0 -317px;
+	width: 634px;
+	height: 326px;
+	border: 1px solid #9da7bd;
+	background: #fff;
+	z-index: 101;
+	display: none
+}
+
+.i-toefl-publicBtn .top-clockpopup {
+	height: 50px;
+	border-bottom: 1px solid #edeff5;
+	background: #f7f8f9
+}
+
+.i-toefl-publicBtn .title-info {
+	font-size: 16px;
+	color: #59648f;
+	line-height: 26px;
+	padding: 14px 0 0 28px
+}
+
+.i-toefl-publicBtn .close-btn {
+	font-size: 30px;
+	height: 20px;
+	width: 20px;
+	line-height: 20px;
+	text-align: center;
+	padding: 18px 26px 0 0;
+	color: #2072e9;
+	cursor: pointer
+}
+
+.i-toefl-clockpopup .down-clockpopup {
+	height: 275px;
+	padding-left: 28px;
+	padding-right: 28px
+}
+
+.i-toefl-clockpopup .down-clockpopup-title {
+	padding-top: 12px;
+	padding-bottom: 8px;
+	line-height: 22px
+}
+
+.i-toefl-clockpopup .user-mseeage-value {
+	width: 308px;
+	height: 158px;
+	overflow-y: scroll;
+	border: 1px solid #f4f4f4;
+	margin-right: 22px;
+	padding: 6px 10px
+}
+
+.i-toefl-clockpopup .user-mseeage-value:focus {
+	border-color: #4c91ff
+}
+
+.i-toefl-clockpopup .title-examples {
+	padding-bottom: 8px
+}
+
+.i-toefl-clockpopup .examples-list {
+	font-size: 12px;
+	line-height: 20px;
+	padding-bottom: 8px
+}
+
+.i-toefl-clockpopup .down-clockpopup-button {
+	padding-top: 16px
+}
+
+.i-toefl-clockpopup .is-ready-btn {
+	width: 96px;
+	height: 26px;
+	border-radius: 4px;
+	background: #4c91ff;
+	color: #fff;
+	text-align: center;
+	line-height: 26px;
+	margin-right: 20px
+}
+
+.i-toefl-clockpopup .is-ready-btn:hover {
+	opacity: .9
+}
+
+.i-toefl-clockpopup .is-not-btn {
+	height: 26px;
+	line-height: 26px;
+	color: #4c91ff
+}
+
+.i-toefl-clockpopup a:hover {
+	text-decoration: none
+}
+
+.i-toefl-popupinfo {
+	width: 716px;
+	height: 474px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin: -237px 0 0 -358px;
+	border: 1px solid #9da7bd;
+	background: #fff;
+	z-index: 101;
+	display: none
+}
+
+.i-toefl-popupinfo .popupinfo-wrap {
+	height: 423px;
+	background: url(../img/word_loading.gif) center center no-repeat
+}
+
+.i-toefl-popupinfo .popupinfo-wraper {
+	height: 400px;
+	background: #fff;
+	padding: 23px 2px 0 28px
+}
+
+.i-toefl-popupinfo .popupinfo-wraper-left {
+	width: 292px;
+	border-right: 1px solid #f7f7f7
+}
+
+.i-toefl-popupinfo .wraper-left-title {
+	font-size: 16px;
+	line-height: 24px;
+	padding-bottom: 18px
+}
+
+.i-toefl-popupinfo .wraper-calendar {
+	width: 264px;
+	height: 324px;
+	border: 1px solid #f2f2f2;
+	background: #fefefe
+}
+
+.i-toefl-popupinfo .wraper-calendar-top {
+	width: 174px;
+	height: 18px;
+	margin: 22px 45px 24px;
+	position: relative
+}
+
+.i-toefl-popupinfo .current-date {
+	height: 18px;
+	line-height: 18px;
+	font-size: 18px;
+	text-align: center
+}
+
+.i-toefl-popupinfo .wraper-calendar-top span {
+	position: absolute;
+	top: 0;
+	width: 21px;
+	height: 17px;
+	background-image: url(../img/wraper-calendar.png);
+	background-repeat: no-repeat;
+	cursor: pointer
+}
+
+.i-toefl-popupinfo .previous-btns {
+	left: 0;
+	background-position: 0 0
+}
+
+.i-toefl-popupinfo .next-btns {
+	right: 0;
+	background-position: -21px 0
+}
+
+.i-toefl-popupinfo .previous-btns:hover {
+	background-position: -42px 0
+}
+
+.i-toefl-popupinfo .next-btns:hover {
+	background-position: -62px 0
+}
+
+.i-toefl-popupinfo .calendar-main-sunday {
+	height: 20px;
+	line-height: 20px;
+	margin-left: 3px;
+	padding-bottom: 8px
+}
+
+.i-toefl-popupinfo .calendar-main-sunday li {
+	float: left;
+	width: 21px;
+	height: 20px;
+	padding: 0 8px;
+	text-align: center
+}
+
+.i-toefl-popupinfo .calendar-main-month {
+	margin-left: 3px
+}
+
+.i-toefl-popupinfo .calendar-main-month li {
+	float: left;
+	width: 21px;
+	height: 21px;
+	margin: 9px 8px;
+	text-align: center;
+	line-height: 21px;
+	font-size: 16px;
+	color: #646464;
+	border-radius: 50%
+}
+
+.i-toefl-popupinfo .calendar-main-month li.overdue {
+	color: #bdbdbd
+}
+
+.i-toefl-popupinfo .calendar-main-month li.active {
+	color: #fff;
+	background: #fe6c6c;
+	font-size: 15px
+}
+
+.i-toefl-popupinfo .popupinfo-wraper-right {
+	margin-left: 24px
+}
+
+.i-toefl-popupinfo .popupinfo-wraper-right .wraper-left-title {
+	width: 346px;
+	text-align: center
+}
+
+.i-toefl-popupinfo .wraper-bonus li {
+	float: left;
+	margin: 0 6px;
+	width: 40px;
+	text-align: center
+}
+
+.i-toefl-popupinfo .wraper-bonus li.wraper-bonus-first {
+	margin-left: 0
+}
+
+.i-toefl-popupinfo .wraper-bonus .nums-list {
+	display: block;
+	height: 22px;
+	line-height: 22px;
+	text-align: center;
+	font-size: 16px;
+	padding-bottom: 20px
+}
+
+.i-toefl-popupinfo .wraper-bonus .icon-bonus {
+	display: block;
+	width: 19px;
+	height: 25px;
+	margin: 0 auto;
+	background-image: url(../img/wraper-bonus.png);
+	background-repeat: no-repeat;
+	background-position: -19px 0;
+	position: relative;
+	margin-bottom: 20px
+}
+
+.i-toefl-popupinfo .wraper-bonus .icon-bonus:before {
+	content: "";
+	position: absolute;
+	width: 52px;
+	height: 1px;
+	background: #bdbdbd;
+	left: -45px;
+	top: 6px
+}
+
+.i-toefl-popupinfo .wraper-bonus .wraper-bonus-first .icon-bonus:before {
+	content: "";
+	width: 0;
+	height: 0;
+	background: #fff
+}
+
+.i-toefl-popupinfo .wraper-bonus .is-normal .icon-bonus:before {
+	background: #ff7124
+}
+
+.i-toefl-popupinfo .wraper-bonus .is-normal .icon-bonus {
+	background-position: 0 0
+}
+
+.i-toefl-popupinfo .wraper-bonus .nums-bonus {
+	width: 40px;
+	height: 16px;
+	line-height: 16px;
+	text-align: center;
+	color: #fff;
+	border-radius: 8px;
+	background: #bdbdbd;
+	padding: 0 4px;
+	box-shadow: 1px 1px 1px rgba(229,229,229,.9)
+}
+
+.i-toefl-popupinfo .wraper-bonus .is-normal .nums-bonus {
+	color: #ff7124;
+	background: #fff;
+	box-shadow: none
+}
+
+.i-toefl-popupinfo .wraper-bonus .nums-active .nums-bonus {
+	color: #fff;
+	background: #ff7124
+}
+
+.i-toefl-popupinfo .wraper-bonus-receive {
+	padding: 24px 0 32px
+}
+
+.i-toefl-popupinfo .wraper-bonus-receive a {
+	display: block;
+	width: 148px;
+	height: 32px;
+	border-radius: 3px;
+	color: #fff;
+	text-align: center;
+	line-height: 32px;
+	margin: 0 auto
+}
+
+.i-toefl-popupinfo .wraper-bonus-receive a:hover {
+	text-decoration: none
+}
+
+.i-toefl-popupinfo .receive-scholarship {
+	background: #4c91ff
+}
+
+.i-toefl-popupinfo .receive-scholarship-not {
+	background: #bfbfbf
+}
+
+.i-toefl-popupinfo .receive-scholarship:hover {
+	opacity: .9;
+	text-decoration: none
+}
+
+.i-toefl-popupinfo .today-target {
+	padding-right: 20px
+}
+
+.i-toefl-popupinfo .today-target-title {
+	position: relative;
+	height: 24px;
+	line-height: 24px;
+	font-size: 16px
+}
+
+.i-toefl-popupinfo .today-target-title:before {
+	content: "";
+	position: absolute;
+	top: 10px;
+	left: 68px;
+	width: 216px;
+	height: 1px;
+	border-bottom: 1px dashed #c1c1c1
+}
+
+.i-toefl-popupinfo .today-target-btn {
+	height: 24px;
+	line-height: 24px;
+	color: #4c91ff;
+	cursor: pointer
+}
+
+.i-toefl-popupinfo .today-target-btn .icons-edit {
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	background: url(../img/wraper-calendar.png) -88px -2px no-repeat;
+	margin-right: 1px
+}
+
+.i-toefl-popupinfo .today-target-text,.i-toefl-popupinfo .today-target-textEdi {
+	width: 324px;
+	height: 50px;
+	border: 1px solid #f4f4f4;
+	line-height: 24px;
+	color: #666;
+	padding: 10px 8px;
+	overflow-y: scroll;
+	margin-top: 6px
+}
+
+.i-toefl-popupinfo .today-target-textEdi:focus {
+	border-color: #4c91ff
+}
+
+.i-toefl-popupinfo .share-icon {
+	padding-top: 10px;
+	padding-right: 20px
+}
+
+.i-toefl-popupinfo .left-share-icon {
+	height: 24px;
+	width: 150px
+}
+
+.i-toefl-popupinfo .share-icon-text {
+	line-height: 24px;
+	margin-right: 8px
+}
+
+.i-toefl-popupinfo .left-share-icon a {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/icon-share-btns.png);
+	background-repeat: no-repeat;
+	margin: 2px 6px 0 0!important;
+	cursor: pointer;
+	padding-left: 0;
+	float: none!important
+}
+
+.i-toefl-popupinfo .icon-share-btns1 {
+	background-position: 0 0!important
+}
+
+.i-toefl-popupinfo .icon-share-btns2 {
+	background-position: -28px 0!important
+}
+
+.i-toefl-popupinfo .icon-share-btns3 {
+	background-position: -57px 0!important
+}
+
+.i-toefl-popupinfo .icon-share-btns1:hover {
+	background-position: 0 -28px!important
+}
+
+.i-toefl-popupinfo .icon-share-btns2:hover {
+	background-position: -28px -28px!important
+}
+
+.i-toefl-popupinfo .icon-share-btns3:hover {
+	background-position: -57px -28px!important
+}
+
+.i-toefl-popupinfo .right-share-icon p {
+	line-height: 24px;
+	color: #666
+}
+
+.i-toefl-popupinfo .right-share-icon a {
+	color: #fff;
+	line-height: 26px;
+	text-align: center;
+	float: left;
+	width: 96px;
+	height: 26px;
+	border-radius: 3px
+}
+
+.i-toefl-popupinfo .right-share-icon a:hover {
+	text-decoration: none;
+	opacity: .9
+}
+
+.i-toefl-popupinfo .right-share-icon .is-ok {
+	background: #4c91ff
+}
+
+.i-toefl-popupinfo .right-share-icon .is-not {
+	background: #bfbfbf;
+	cursor: default
+}
+
+.g-kmf-cards {
+	width: 140px;
+	height: 60px;
+	position: absolute
+}
+
+.cards-top {
+	background: url(../img/card-loading.gif) 20px 16px no-repeat
+}
+
+.g-kmf-cards .user-cards {
+	width: 300px;
+	height: 307px;
+	background: url(../img/user-cards-top.png) no-repeat;
+	position: absolute;
+	left: 0;
+	z-index: 99
+}
+
+.g-kmf-cards .user-cards-up {
+	bottom: -10px
+}
+
+.g-kmf-cards .user-cards-down {
+	top: 0
+}
+
+.g-kmf-cards .user-cards .top-card-array {
+	position: absolute;
+	left: 60px;
+	width: 20px;
+	height: 14px;
+	background-image: url(../img/user-card-arrow.png);
+	background-repeat: no-repeat
+}
+
+.g-kmf-cards .user-cards-down .top-card-array {
+	background-position: 0 -25px;
+	top: -4px
+}
+
+.g-kmf-cards .user-cards-up .top-card-array {
+	background-position: 0 0;
+	bottom: 4px
+}
+
+.g-kmf-cards .top-card-bg {
+	position: absolute;
+	top: 7px;
+	left: 7px;
+	width: 286px;
+	height: 96px;
+	background: url(../img/user-cardbg.png) no-repeat
+}
+
+.g-kmf-cards .top-card-bg .card-username {
+	position: absolute;
+	top: 16px;
+	left: 14px;
+	font-size: 14px;
+	line-height: 24px;
+	color: #fff
+}
+
+.g-kmf-cards .top-card-bg .card-userleave {
+	position: absolute;
+	top: 16px;
+	right: 14px;
+	font-size: 14px;
+	line-height: 24px;
+	color: #fff
+}
+
+.g-kmf-cards .top-card-bg .card-userhead {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+	top: 52px;
+	left: 110px;
+	overflow: hidden
+}
+
+.g-kmf-cards .card-info {
+	position: absolute;
+	top: 134px;
+	left: 6px;
+	width: 288px;
+	height: 70px;
+	text-align: center
+}
+
+.g-kmf-cards .card-info p {
+	font-size: 14px;
+	line-height: 28px
+}
+
+.g-kmf-cards .card-score {
+	position: absolute;
+	width: 288px;
+	height: 46px;
+	top: 224px;
+	left: 6px
+}
+
+.g-kmf-cards .card-score ul {
+	width: 240px;
+	height: 48px;
+	margin: 0 auto
+}
+
+.g-kmf-cards .card-score li {
+	float: left;
+	width: 120px;
+	height: 48px
+}
+
+.g-kmf-cards .card-score .total-score {
+	width: 119px;
+	border-right: 1px dashed #c1c1c1
+}
+
+.g-kmf-cards .card-score li span {
+	display: block;
+	height: 24px;
+	line-height: 24px;
+	text-align: center;
+	font-size: 16px;
+	color: #ff5a00
+}
+
+.g-kmf-cards .card-score li i {
+	display: block;
+	height: 24px;
+	line-height: 24px;
+	text-align: center
+}
+
+.js-user-cards {
+	cursor: pointer
+}
+
+.i-toefl-ranking {
+	width: 250px;
+	margin-bottom: 20px;
+	background: #fff
+}
+
+.i-toefl-ranking .charts-list {
+	height: 667px
+}
+
+.i-toefl-ranking .total-list {
+	border-top: 2px solid #4c91ff
+}
+
+.i-toefl-ranking .listen-list {
+	border-top-color: #ff9c4c
+}
+
+.i-toefl-ranking .read-list {
+	border-top-color: #43ab10
+}
+
+.i-toefl-ranking .spoken-list {
+	border-top-color: #efcb05
+}
+
+.i-toefl-ranking .writing-list {
+	border-top-color: #de7c7c
+}
+
+.i-toefl-ranking .charts-list-top {
+	height: 38px;
+	background: #f7f7f7
+}
+
+.i-toefl-ranking .charts-list-top h2 {
+	font-size: 18px;
+	line-height: 38px;
+	color: #8b8b8b;
+	padding-left: 16px
+}
+
+.i-toefl-ranking .charts-list-center {
+	height: 588px;
+	background: url(../img/word_loading.gif) no-repeat center center
+}
+
+.i-toefl-ranking .charts-list-down {
+	height: 40px;
+	border-top: 1px solid #eee;
+	background: #fdfdfd;
+	text-align: center
+}
+
+.i-toefl-ranking .charts-list-down a {
+	display: block;
+	width: 100%;
+	height: 40px;
+	color: #4c91ff;
+	font-size: 13px;
+	line-height: 40px
+}
+
+.i-toefl-ranking .charts-list-down a:hover {
+	text-decoration: none
+}
+
+.i-toefl-ranking .charts-list-wrap {
+	height: 588px
+}
+
+.i-toefl-ranking .charts-list-change {
+	padding: 12px 0;
+	margin: 0 15px
+}
+
+.i-toefl-ranking .charts-list-change .box-ang {
+	width: 93px;
+	height: 24px;
+	border-style: solid;
+	border-width: 1px;
+	float: left;
+	border-radius: 3px;
+	font-size: 14px;
+	line-height: 24px;
+	margin-right: 14px;
+	cursor: pointer;
+	color: #333;
+	background: #fcfcfc;
+	border-color: #e6e6e6
+}
+
+.i-toefl-ranking .charts-list-change .current {
+	color: #fff;
+	background: #549af1;
+	border-color: #549af1
+}
+
+.i-toefl-ranking .charts-list-change .more {
+	margin-right: 0;
+	width: 107px
+}
+
+.i-toefl-ranking .charts-list-change .left-time {
+	text-align: center;
+	line-height: 24px;
+	width: 100%
+}
+
+.i-toefl-ranking .charts-list-change .more .left-time {
+	width: 82px;
+	height: 24px;
+	float: left;
+	border-right: 1px solid #e6e6e6;
+	text-align: center;
+	cursor: pointer
+}
+
+.i-toefl-ranking .charts-list-change .current .left-time {
+	border-right: 1px solid #8ebcf6
+}
+
+.i-toefl-ranking .charts-list-change .right-time-change {
+	float: left;
+	width: 24px;
+	height: 24px;
+	position: relative
+}
+
+.i-toefl-ranking .charts-list-change .right-time-change .ico {
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: url(../img/square-bg.png) -343px -134px no-repeat;
+	cursor: pointer
+}
+
+.i-toefl-ranking .charts-list-change .current .ico {
+	background: #549af1 url(../img/square-bg.png) -77px -133px no-repeat;
+	width: 25px
+}
+
+.i-toefl-ranking .charts-list-change .change-date-study {
+	position: absolute;
+	top: 25px;
+	right: -1px;
+	width: 107px;
+	height: 80px;
+	border: 1px solid #d2d2d2;
+	border-top: none;
+	background: #fff
+}
+
+.i-toefl-ranking .charts-list-change .change-date-study li {
+	padding: 0 8px;
+	border-bottom: 1px dashed #d2d2d2;
+	height: 26px;
+	text-align: center;
+	font: 13px/26px "瀹嬩綋";
+	color: #666;
+	cursor: pointer
+}
+
+.i-toefl-ranking .charts-list-change .change-date-study li.on-active {
+	color: #fff;
+	background: #4c91ff
+}
+
+.i-toefl-ranking .charts-list-change .change-date-study li.list-active {
+	background: #4c91ff;
+	color: #fff
+}
+
+.i-toefl-ranking .charts-list-change .hide {
+	display: none
+}
+
+.i-toefl-ranking .charts-list-update {
+	height: 28px;
+	width: 220px;
+	margin: 0 auto 12px
+}
+
+.i-toefl-ranking .charts-list-update .update-type {
+	text-align: center;
+	font-size: 12px;
+	line-height: 28px
+}
+
+.i-toefl-ranking .charts-list-update .update-change {
+	width: 220px;
+	height: 28px;
+	overflow: hidden
+}
+
+.i-toefl-ranking .charts-list-update .update-change li {
+	width: 55px;
+	height: 27px;
+	float: left;
+	text-align: center;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 27px;
+	color: #999;
+	cursor: pointer;
+	border-bottom: 1px solid #e7e7e7
+}
+
+.i-toefl-ranking .charts-list-update .update-change .current {
+	border-bottom: 2px solid #549af1;
+	height: 26px;
+	color: #333
+}
+
+.i-toefl-ranking .charts-list-ranking {
+	height: 498px;
+	overflow: hidden
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking {
+	padding: 0 12px;
+	height: 498px;
+	background: #fff;
+	margin-top: -1px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .list-charts {
+	height: 45px;
+	border-top: 1px dashed #e2e2e2
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .first {
+	border-top: none
+}
+
+.i-toefl-ranking .charts-list-ranking .first .present-img {
+	position: relative
+}
+
+.i-toefl-ranking .charts-list-ranking .first .present-img .avatar {
+	background-position: -102px -137px;
+	bottom: -3px
+}
+
+.i-toefl-ranking .charts-list-ranking .second .present-img {
+	position: relative
+}
+
+.i-toefl-ranking .charts-list-ranking .second .present-img .avatar {
+	background-position: -125px -137px;
+	bottom: -3px
+}
+
+.i-toefl-ranking .charts-list-ranking .third .present-img {
+	position: relative
+}
+
+.i-toefl-ranking .charts-list-ranking .third .present-img .avatar {
+	background-position: -148px -137px;
+	bottom: -3px
+}
+
+.i-toefl-ranking .charts-list-ranking .first .avatar {
+	background-position: -104px -137px
+}
+
+.i-toefl-ranking .charts-list-ranking .second .avatar {
+	background-position: -127px -137px
+}
+
+.i-toefl-ranking .charts-list-ranking .third .avatar {
+	background-position: -150px -137px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .medal .charts-img {
+	width: 38px;
+	height: 38px;
+	float: left;
+	margin-right: 8px;
+	position: relative
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .medal .avatar {
+	background-image: url(../img/square-bg.png);
+	background-repeat: no-repeat;
+	width: 15px;
+	height: 15px;
+	position: absolute;
+	z-index: 2;
+	bottom: 3px;
+	left: 0
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .medal .charts-img img {
+	width: 32px;
+	height: 32px;
+	border-radius: 50%;
+	overflow: hidden;
+	position: absolute;
+	left: 6px;
+	top: 4px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .medal .charts-info {
+	width: 178px;
+	height: 45px;
+	line-height: 45px;
+	float: left
+}
+
+.i-toefl-ranking .charts-list-ranking .medal .charts-info .charts-info-name {
+	float: left;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 45px
+}
+
+.i-toefl-ranking .charts-list-ranking .medal .charts-info .charts-info-score {
+	float: right;
+	color: #8c8c8c;
+	font-size: 12px;
+	line-height: 45px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .list-charts .charts-order {
+	height: 45px;
+	float: left;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 45px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .list-charts .charts-order i {
+	margin-right: 8px;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 45px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .list-charts .charts-message {
+	float: right;
+	color: #8c8c8c;
+	font-size: 12px;
+	line-height: 45px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .past {
+	line-height: 45px;
+	height: 45px;
+	text-align: center
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .past .past-list {
+	text-align: center;
+	font-size: 14px;
+	line-height: 45px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .past .past-list span {
+	background: url(../img/square-bg.png) -184px -135px no-repeat;
+	padding-left: 24px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .present {
+	height: 83px;
+	border-top: 1px dashed #e2e2e2
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .present .charts-order {
+	margin-right: 3px;
+	color: #4c91ff
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .present .present-list {
+	float: left;
+	padding-top: 14px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .present .present-img {
+	float: left;
+	width: 52px;
+	height: 52px;
+	margin-right: 10px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .present .present-img img {
+	width: 52px;
+	height: 52px;
+	border-radius: 50%
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .present .present-my-info {
+	float: left
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .present-my-info .my-info-top {
+	color: #4c91ff;
+	padding: 4px 0 0;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 24px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .present-my-info .my-info-below {
+	color: #4c91ff;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 24px
+}
+
+.i-toefl-ranking .charts-list-ranking .ranking .present .no-score {
+	font-size: 24px
+}
+
+.i-kmf-publicClass {
+	width: 980px;
+	margin: 0 auto 20px;
+	height: 50px;
+	background: #fff url(../img/word_loading.gif) center center no-repeat;
+	position: relative
+}
+
+.publicClass_open {
+	height: 130px
+}
+
+.i-kmf-publicClass.no-loading {
+	background: 0 0
+}
+
+.i-kmf-publicClass .wrap-contents-class {
+	position: relative;
+	width: 980px;
+	height: 50px;
+	overflow: hidden
+}
+
+.i-kmf-publicClass .wrap-content-open {
+	height: 130px
+}
+
+.i-kmf-publicClass .small-open {
+	height: 50px;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	z-index: 3
+}
+
+.publicClass_open .small-open {
+	z-index: 1
+}
+
+.i-kmf-publicClass .small-left {
+	width: 78px;
+	background: #fe9277;
+	float: left;
+	text-align: center;
+	padding: 6px 0;
+	height: 38px
+}
+
+.i-kmf-publicClass .small-left-title {
+	line-height: 20px;
+	color: #fff
+}
+
+.i-kmf-publicClass .small-right {
+	float: left;
+	width: 902px;
+	height: 50px;
+	background: #fcfbf1
+}
+
+.i-kmf-publicClass .small-wrap-left {
+	float: left
+}
+
+.i-kmf-publicClass .small-wrap-title {
+	height: 50px;
+	line-height: 50px;
+	font-size: 16px;
+	font-weight: 700;
+	padding-left: 22px
+}
+
+.i-kmf-publicClass .small-wrap-right {
+	float: right;
+	height: 50px
+}
+
+.i-kmf-publicClass .small-wrap-info {
+	float: right;
+	width: 99px;
+	height: 50px;
+	line-height: 50px;
+	border-left: 1px solid #f6f4e0;
+	text-align: center;
+	font-weight: 700
+}
+
+.i-kmf-publicClass .small-wrap-time {
+	float: right;
+	height: 50px;
+	line-height: 50px;
+	padding-right: 22px
+}
+
+.i-kmf-publicClass .small-start-time .ico-time {
+	margin-top: 18px
+}
+
+.i-kmf-publicClass .small-start-time .ico-info {
+	margin-top: 0
+}
+
+.i-kmf-publicClass .small-start-time .is-time-5 {
+	color: #ff7124
+}
+
+.i-kmf-publicClass .is-going {
+	float: left;
+	color: #4c91ff;
+	margin-left: 18px
+}
+
+.i-kmf-publicClass .is-going:hover {
+	text-decoration: none
+}
+
+.i-kmf-publicClass .small-start-liveing {
+	float: left;
+	color: #ff7124
+}
+
+.i-kmf-publicClass .small-start-liveing .is-going {
+	float: none
+}
+
+.i-kmf-publicClass .small-start-liveing .ico-live {
+	margin-top: 16px
+}
+
+.i-kmf-publicClass .small-start-liveing .live-in-info {
+	font-size: 16px
+}
+
+.i-kmf-publicClass .small-start-time {
+	float: left
+}
+
+.i-kmf-publicClass .small-start-time .ico-live {
+	margin-top: 16px
+}
+
+.i-kmf-publicClass .small-start-time .live-in-info {
+	font-size: 16px
+}
+
+.i-kmf-publicClass .small-start-time .is-times-3 {
+	color: #ff7124
+}
+
+.i-kmf-publicClass .small-start-time .is-going {
+	float: none
+}
+
+.i-kmf-publicClass .small-time-over {
+	display: block;
+	font-size: 16px;
+	color: #999;
+	font-weight: 700
+}
+
+.i-kmf-publicClass .small-start-time .is-time-7 {
+	color: #ff7124
+}
+
+.i-kmf-publicClass .large-open {
+	height: 130px;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	z-index: 2;
+	background: #fff;
+	opacity: 0
+}
+
+.publicClass_open .large-open {
+	opacity: 1
+}
+
+.i-kmf-publicClass .large-left-title {
+	width: 150px;
+	height: 130px;
+	float: left;
+	background: url(../img/i-kmf-publicClass.png) no-repeat
+}
+
+.i-kmf-publicClass .large-right-wrap {
+	float: left;
+	background: #fff
+}
+
+.i-kmf-publicClass .large-wrap-up {
+	height: 30px;
+	overflow: hidden
+}
+
+.i-kmf-publicClass .large-wrap-days {
+	float: left;
+	width: 165px;
+	height: 29px;
+	line-height: 29px;
+	text-align: center;
+	border-left: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	background: #fcfcfc;
+	cursor: pointer
+}
+
+.i-kmf-publicClass .large-wrap-last {
+	border-right: none!important;
+	width: 166px!important
+}
+
+.i-kmf-publicClass .is-active-show {
+	background: #fff;
+	position: relative;
+	border-bottom: none;
+	border-left: 1px solid #eee;
+	width: 165px;
+	margin-left: -1px
+}
+
+.i-kmf-publicClass .is-active-show:before {
+	content: "";
+	width: 100%;
+	height: 2px;
+	background: #79acfd;
+	position: absolute;
+	top: 0;
+	left: 0
+}
+
+.i-kmf-publicClass .large-wrap-down {
+	padding: 14px 20px 6px 44px
+}
+
+.i-kmf-publicClass .large-wrap-box {
+	display: none
+}
+
+.i-kmf-publicClass .is-active-box {
+	display: block
+}
+
+.i-kmf-publicClass .wrap-box-left {
+	float: left
+}
+
+.i-kmf-publicClass .box-left-title {
+	font-size: 16px;
+	line-height: 24px;
+	padding-bottom: 4px;
+	font-weight: 700
+}
+
+.i-kmf-publicClass .box-left-main {
+	color: #666;
+	line-height: 22px;
+	padding-bottom: 4px;
+	width: 566px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+
+.i-kmf-publicClass .wrap-box-right {
+	float: right
+}
+
+.i-kmf-publicClass .box-live-before {
+	display: block;
+	width: 132px
+}
+
+.i-kmf-publicClass .is-time-before {
+	width: 192px
+}
+
+.i-kmf-publicClass .publice-live {
+	height: 26px;
+	padding-bottom: 8px;
+	float: left
+}
+
+.i-kmf-publicClass .ico-time {
+	float: left;
+	width: 15px;
+	height: 15px;
+	background-image: url(../img/i-kmf-publicClass.png);
+	background-repeat: no-repeat;
+	margin-right: 4px
+}
+
+.i-kmf-publicClass .is-liveing {
+	background-position: 0 -132px;
+	margin-top: 8px
+}
+
+.i-kmf-publicClass .is-replaying {
+	background-position: 0 -148px;
+	margin-top: 7px
+}
+
+.i-kmf-publicClass .is-liveing-bottom {
+	background-position: -57px -132px;
+	height: 16px;
+	margin-top: 7px
+}
+
+.i-kmf-publicClass .ico-info {
+	float: left;
+	margin-top: 5px
+}
+
+.i-kmf-publicClass .time-out {
+	float: left
+}
+
+.i-kmf-publicClass .is-start-time {
+	font-size: 20px;
+	font-weight: 700;
+	color: #ff7124
+}
+
+.i-kmf-publicClass .is-over-time {
+	font-size: 14px;
+	color: #666;
+	margin-top: 5px
+}
+
+.i-kmf-publicClass .live-in-start {
+	width: 132px;
+	height: 28px;
+	line-height: 28px;
+	padding-bottom: 8px;
+	color: #ff7124
+}
+
+.i-kmf-publicClass .ico-live {
+	float: left;
+	width: 16px;
+	height: 16px;
+	background-image: url(../img/i-kmf-publicClass.png);
+	background-repeat: no-repeat;
+	margin: 6px 4px 0 24px
+}
+
+.i-kmf-publicClass .is-liveing-in {
+	background-position: -19px -132px
+}
+
+.i-kmf-publicClass .is-replaying-in {
+	background-position: -38px -132px
+}
+
+.i-kmf-publicClass .live-in-info {
+	font-size: 18px;
+	font-weight: 700
+}
+
+.i-kmf-publicClass .dotting {
+	font-weight: 700
+}
+
+.i-kmf-publicClass .is-goin {
+	float: left;
+	width: 132px;
+	height: 32px;
+	border-radius: 2px;
+	background: #3d87fd;
+	line-height: 32px;
+	text-align: center;
+	color: #fff
+}
+
+.i-kmf-publicClass .is-goin:hover {
+	text-decoration: none;
+	opacity: .9;
+	filter: alpha(opacity:90)
+}
+
+.i-kmf-publicClass .large-derail {
+	position: absolute;
+	right: -24px;
+	bottom: -1px;
+	width: 22px;
+	height: 42px;
+	line-height: 21px;
+	text-align: center;
+	border: 1px solid #e1e1e1;
+	background: #f9f9f9;
+	font-size: 12px;
+	font-family: "瀹嬩綋";
+	cursor: pointer
+}
+
+.i-kmf-publicClass .large-derail:hover {
+	background: #fff
+}
+
+.i-kmf-publicClass .current-open {
+	height: 50px;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	z-index: 3
+}
+
+.i-kmf-publicClass .publicClass_open_new {
+	height: 194px
+}
+
+.i-kmf-publicClass .left-current {
+	width: 150px;
+	background: #60606f;
+	float: left;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff
+}
+
+.i-kmf-publicClass .right-current {
+	float: left;
+	width: 790px;
+	height: 50px;
+	padding: 0 20px;
+	background: #fff
+}
+
+.i-kmf-publicClass .current-l-info {
+	width: 650px;
+	line-height: 50px;
+	display: inline-block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+}
+
+.i-kmf-publicClass .current-l-info span {
+	font-size: 16px;
+	color: #ff7124
+}
+
+.i-kmf-publicClass .current-r-info {
+	height: 50px;
+	float: right;
+	color: #999;
+	line-height: 50px
+}
+
+.i-kmf-publicClass .current-r-btn {
+	float: right;
+	width: 118px;
+	height: 32px;
+	border-radius: 3px;
+	background: #4c91ff;
+	text-align: center;
+	line-height: 32px;
+	color: #fff;
+	margin-top: 10px
+}
+
+.i-kmf-publicClass .right-current a:hover {
+	text-decoration: none;
+	opacity: .9
+}
+
+.i-kmf-publicClass .bigger-open {
+	height: 194px;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	z-index: 2;
+	background: #fff;
+	width: 980px
+}
+
+.i-kmf-publicClass .bigger-open-left {
+	float: left;
+	width: 150px;
+	height: 194px;
+	background: url(/dist/toefl/images/public-class-open.jpg) no-repeat
+}
+
+.i-kmf-publicClass .bigger-open-right {
+	float: left;
+	width: 830px;
+	height: 194px
+}
+
+.i-kmf-publicClass .list-top-tap {
+	height: 30px;
+	overflow: hidden
+}
+
+.i-kmf-publicClass .list-top-tap li {
+	float: left;
+	width: 165px;
+	height: 29px;
+	line-height: 30px;
+	text-align: center;
+	border-bottom: 1px solid #e5e5e5;
+	border-left: 1px solid #ececec;
+	background: #fcfcfc;
+	cursor: pointer
+}
+
+.i-kmf-publicClass .list-top-tap li.tap-current {
+	background: #fff;
+	position: relative;
+	border-bottom: none;
+	border-left: 1px solid #e5e5e5;
+	width: 166px;
+	margin-left: -1px
+}
+
+.i-kmf-publicClass .list-top-tap li.tap-current:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 2px;
+	background: #4c91ff
+}
+
+.i-kmf-publicClass .wrap-list-info {
+	display: none;
+	height: 164px;
+	overflow: hidden;
+	padding: 0 20px
+}
+
+.i-kmf-publicClass .wrap-list-current {
+	display: block
+}
+
+.i-kmf-publicClass .class-message-list {
+	border-top: 1px dashed #d3d3d3;
+	padding: 20px 0 14px;
+	margin-top: -1px
+}
+
+.i-kmf-publicClass .class-message-list .class-list-l {
+	float: left
+}
+
+.i-kmf-publicClass .class-message-list .l-list-title {
+	float: left;
+	width: 34px;
+	height: 16px;
+	line-height: 16px;
+	text-align: center;
+	background: #cbcbcb;
+	font-size: 12px;
+	color: #fff;
+	margin-right: 12px;
+	border-radius: 4px
+}
+
+.i-kmf-publicClass .class-message-list .r-list-wrap {
+	float: left
+}
+
+.i-kmf-publicClass .class-message-list .r-list-wrap h3 {
+	font-size: 16px;
+	line-height: 18px;
+	padding-bottom: 8px;
+	width: 602px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+}
+
+.i-kmf-publicClass .class-message-list .is-now-play {
+	background: #ff7124
+}
+
+.i-kmf-publicClass .class-message-list .info-wrap {
+	color: #666;
+	line-height: 22px
+}
+
+.i-kmf-publicClass .class-message-list .info-wrap span {
+	float: left;
+	margin-right: 30px;
+	line-height: 22px
+}
+
+.i-kmf-publicClass .class-message-list .teacher {
+	width: 130px
+}
+
+.i-kmf-publicClass .class-message-list .list-time-info em {
+	float: left;
+	width: 38px;
+	height: 15px;
+	font-size: 12px;
+	line-height: 16px;
+	text-align: center;
+	border-radius: 3px;
+	margin-right: 8px;
+	margin-top: 3px
+}
+
+.i-kmf-publicClass .class-message-list .class-theme {
+	width: 430px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+}
+
+.i-kmf-publicClass .class-message-list .class-list-r {
+	float: right
+}
+
+.i-kmf-publicClass .class-message-list .class-list-r a:hover {
+	text-decoration: none;
+	opacity: .9
+}
+
+.i-kmf-publicClass .class-message-list .class-list-msg {
+	height: 16px;
+	line-height: 16px
+}
+
+.i-kmf-publicClass .class-message-list .class-list-msg:first-child {
+	padding-bottom: 12px
+}
+
+.i-kmf-publicClass .class-message-list .class-list-msg span {
+	float: left;
+	width: 38px;
+	height: 14px;
+	font-size: 12px;
+	line-height: 14px;
+	text-align: center;
+	border-radius: 3px;
+	margin-right: 8px
+}
+
+.i-kmf-publicClass .class-message-list .is-orange {
+	border: 1px solid #ff914f;
+	color: #ff914f
+}
+
+.i-kmf-publicClass .class-message-list .is-blue {
+	border: 1px solid #56aaff;
+	color: #56aaff
+}
+
+.i-kmf-publicClass .class-message-list .class-list-msg i {
+	float: left;
+	line-height: 16px;
+	color: #666
+}
+
+.i-kmf-publicClass .class-message-list .join-class-btn {
+	display: block;
+	width: 128px;
+	height: 32px;
+	border-radius: 3px;
+	background: #4c91ff;
+	text-align: center;
+	line-height: 32px;
+	color: #fff;
+	margin-bottom: 6px
+}
+
+.i-kmf-publicClass .class-message-list .join-result-info {
+	color: #666;
+	line-height: 18px;
+	text-align: center
+}
+
+.i-kmf-publicClass .class-message-list .join-class-resultBtn {
+	display: block;
+	width: 128px;
+	height: 32px;
+	border-radius: 3px;
+	background: #4c91ff;
+	text-align: center;
+	line-height: 32px;
+	color: #fff;
+	margin-top: 10px
+}
+
+.i-kmf-publicClass .class-message-list .is-success {
+	background: #cbcbcb;
+	cursor: not-allowed
+}
+
+.i-kmf-publicClass .class-message-list .is-success:hover {
+	opacity: 1!important
+}
+
+.i-toefl-tasks {
+	width: 250px;
+	height: 388px;
+	background: #fff;
+	margin-bottom: 20px;
+	border-radius: 2px
+}
+
+.i-toefl-tasks .top-info {
+	height: 40px;
+	line-height: 40px;
+	padding: 5px 16px
+}
+
+.i-toefl-tasks .top-info h2 {
+	font-size: 18px;
+	float: left
+}
+
+.i-toefl-tasks .top-info a {
+	float: right;
+	font-size: 12px;
+	font-family: "瀹嬩綋";
+	color: #4c91ff
+}
+
+.i-toefl-tasks .top-info a:hover {
+	text-decoration: none
+}
+
+.i-toefl-tasks .task-wrap {
+	padding: 0 18px;
+	position: relative;
+	width: 86%;
+	height: 86%
+}
+
+.i-toefl-tasks .task-wrap-scroll {
+	position: absolute;
+	top: 0;
+	left: 16px
+}
+
+.i-toefl-tasks .tasks-box {
+	width: 216px;
+	height: 97px;
+	position: relative;
+	margin-bottom: 15px
+}
+
+.i-toefl-tasks .tasks-box-main {
+	width: 208px;
+	height: 93px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 2px solid #f3f5f9;
+	background: #f3f5f9;
+	box-shadow: 1px 1px 1px rgba(243,245,249,.4);
+	border-radius: 3px
+}
+
+.i-toefl-tasks .tasks-box-top {
+	position: relative;
+	width: 208px;
+	height: 28px;
+	margin-top: 14px
+}
+
+.i-toefl-tasks .tasks-box-main .tasks-box-title {
+	position: absolute;
+	top: 0;
+	left: -6px;
+	width: 108px;
+	height: 28px;
+	background: url(../img/i-toefl-tasks.png) 0 0 no-repeat;
+	padding-left: 12px
+}
+
+.i-toefl-tasks .tasks-box-title span {
+	float: left;
+	height: 20px;
+	line-height: 22px;
+	color: #fff;
+	margin-right: 6px
+}
+
+.i-toefl-tasks .tasks-box-title i {
+	float: left;
+	width: 3px;
+	height: 3px;
+	border-radius: 50%;
+	background: #fff;
+	margin: 10px 6px 0 0
+}
+
+.i-toefl-tasks .tasks-box-reward {
+	float: right;
+	margin-right: 10px
+}
+
+.i-toefl-tasks .tasks-box-reward span {
+	float: left;
+	margin-left: 6px
+}
+
+.i-toefl-tasks .ico-gold {
+	width: 18px;
+	height: 21px;
+	background: url(../img/i-toefl-tasks.png) -2px -61px no-repeat
+}
+
+.i-toefl-tasks .ico-total {
+	color: #feb01a
+}
+
+.i-toefl-tasks .tasks-box-main:hover .inner {
+	position: absolute;
+	left: -2px;
+	top: -2px;
+	width: 208px;
+	padding: 2px 0 0 2px;
+	background: #fff;
+	box-shadow: 1px 1px 4px rgba(0,0,0,.2);
+	z-index: 5;
+	border-radius: 3px
+}
+
+.i-toefl-tasks .tasks-box-main:hover .inner-default {
+	height: 95px
+}
+
+.i-toefl-tasks .tasks-box-main:hover .btn-go,.i-toefl-tasks .tasks-box-main:hover .other-reward-info,.i-toefl-tasks .tasks-box-main:hover .other-reward-msg {
+	display: block
+}
+
+.i-toefl-tasks .reward-one:hover {
+	background: #fff;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+	z-index: 5;
+	border-radius: 3px
+}
+
+.i-toefl-tasks .tasks-box-main:hover .btn-go {
+	display: block
+}
+
+.i-toefl-tasks .reward-two:hover {
+	height: 158px;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+	background: #fff;
+	z-index: 5;
+	border-radius: 3px
+}
+
+.i-toefl-tasks .reward-one .tasks-box-target {
+	height: 40px;
+	padding: 0 8px
+}
+
+.i-toefl-tasks .target-info {
+	height: 24px;
+	margin-bottom: 4px;
+	line-height: 24px
+}
+
+.i-toefl-tasks .is-go-do {
+	float: right
+}
+
+.i-toefl-tasks .btn-go {
+	width: 56px;
+	height: 18px;
+	line-height: 18px;
+	text-align: center;
+	color: #fff;
+	background: #4c91ff;
+	font-size: 12px;
+	border-radius: 3px;
+	display: none
+}
+
+.i-toefl-tasks .btn-go:hover {
+	text-decoration: none
+}
+
+.i-toefl-tasks .reward-two .tasks-box-target {
+	height: 108px;
+	padding: 0 8px
+}
+
+.i-toefl-tasks .other-reward-msg {
+	margin: 10px 0 14px;
+	height: 28px;
+	line-height: 28px;
+	display: none
+}
+
+.i-toefl-tasks .other-reward-msg span {
+	float: left;
+	line-height: 28px;
+	font-size: 12px;
+	color: #999;
+	margin-right: 10px
+}
+
+.i-toefl-tasks .other-reward-msg i {
+	float: left;
+	height: 16px;
+	padding: 0 4px;
+	border: 2px solid #ffe287;
+	background: #fff;
+	line-height: 18px;
+	text-align: center;
+	font-size: 12px;
+	color: #666;
+	white-space: nowrap;
+	word-break: normal;
+	margin-top: 4px
+}
+
+.i-toefl-tasks .reward-two:hover .other-reward-msg {
+	display: block
+}
+
+.i-toefl-tasks .reward-three:hover {
+	height: 110px;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+	background: #fff;
+	z-index: 5;
+	border-radius: 3px
+}
+
+.i-toefl-tasks .other-reward-info {
+	margin: 10px auto 12px;
+	height: 16px;
+	width: 160px;
+	background: #edf0f5;
+	border-radius: 10px;
+	position: relative;
+	display: none
+}
+
+.i-toefl-tasks .reward-three:hover .other-reward-info {
+	display: block
+}
+
+.i-toefl-tasks .reward-info-bj1 {
+	width: 100%;
+	height: 16px;
+	line-height: 16px;
+	text-align: center;
+	position: absolute;
+	color: #666;
+	z-index: 2
+}
+
+.i-toefl-tasks .reward-info-bj2 {
+	width: 30%;
+	height: 16px;
+	background: #ffe287;
+	border-radius: 10px;
+	position: absolute
+}
+
+.i-toefl-tasks .tasks-box-target {
+	padding: 0 8px 8px
+}
+
+.i-toefl-tasks .reward-four:hover {
+	height: 160px;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+	background: #fff;
+	z-index: 5;
+	border-radius: 3px
+}
+
+.i-toefl-tasks .reward-four:hover .other-reward-info,.i-toefl-tasks .reward-four:hover .other-reward-msg {
+	display: block
+}
+
+.i-toefl-tasks .is-complete {
+	border-color: #5e9cff;
+	background: #fff
+}
+
+.i-toefl-tasks .is-complete .tasks-box-title {
+	background-position: 0 -29px
+}
+
+.i-toefl-tasks .btn-finish {
+	width: 64px;
+	height: 20px;
+	background: #ff7124;
+	color: #fff;
+	line-height: 20px;
+	text-align: center;
+	border-radius: 3px;
+	margin-top: -4px;
+	display: none
+}
+
+.i-toefl-tasks a:hover {
+	text-decoration: none
+}
+
+.i-toefl-tasks .is-complete:hover {
+	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+	z-index: 5;
+	border-radius: 3px
+}
+
+.i-toefl-tasks .is-complete:hover .btn-finish,.i-toefl-tasks .is-complete:hover .other-reward-msg {
+	display: block
+}
+
+.i-toefl-tasks .finish-two:hover {
+	height: 160px
+}
+
+.i-toefl-tasks .is-success {
+	z-index: 6;
+	border-color: #feb01a;
+	background: #fff;
+	box-shadow: 1px 2px 2px rgba(0,0,0,.1)
+}
+
+.i-toefl-tasks .is-success-info {
+	font-size: 18px;
+	color: #feb01a;
+	height: 24px;
+	line-height: 24px;
+	text-align: center;
+	padding: 20px 0 8px
+}
+
+.i-toefl-tasks .is-success-reward {
+	height: 21px;
+	line-height: 21px;
+	margin: 0 auto;
+	text-align: center
+}
+
+.i-toefl-tasks .is-success-reward span {
+	display: inline-block;
+	vertical-align: middle
+}
+
+.i-toefl-tasks .is-success-reward .ico-cards,.i-toefl-tasks .is-success-reward .ico-medal {
+	margin-left: 6px
+}
+
+.i-toefl-tasks .success-reward-cards {
+	width: 140px
+}
+
+.i-toefl-tasks .ico-cards {
+	height: 16px;
+	padding: 0 4px;
+	border: 2px solid #ffe287;
+	background: #fff;
+	display: inline-block;
+	text-align: center;
+	line-height: 18px;
+	color: #666;
+	font-size: 12px;
+	white-space: normal
+}
+
+.i-toefl-tasks .reward-success .tasks-box-target {
+	position: relative
+}
+
+.i-toefl-tasks .reward-success .tasks-box-target:before {
+	content: '';
+	position: absolute;
+	width: 102px;
+	height: 51px;
+	background: url(../img/i-toefl-tasks.png) -18px -70px no-repeat;
+	right: 21px;
+	top: -6px
+}
+
+.i-toefl-card {
+	width: 250px;
+	height: 252px;
+	margin-bottom: 20px;
+	background: #fff;
+	box-shadow: 1px 2px 2px rgba(0,0,0,.2);
+	border-radius: 2px
+}
+
+.i-toefl-card .top-title {
+	padding: 0 16px 10px;
+	height: 40px
+}
+
+.i-toefl-card .left-title {
+	font-size: 18px;
+	height: 40px;
+	line-height: 40px;
+	float: left
+}
+
+.i-toefl-card .right-all {
+	font-size: 12px;
+	font-family: "瀹嬩綋";
+	color: #4c91ff;
+	float: right;
+	height: 40px;
+	line-height: 40px
+}
+
+.i-toefl-card a:hover {
+	text-decoration: none
+}
+
+.i-toefl-card .wrap-content {
+	padding: 0 18px
+}
+
+.i-toefl-card .is-default {
+	width: 220px;
+	height: 180px;
+	float: left;
+	background: #fff;
+	box-shadow: 2px 2px 2px rgba(249,249,249,.8),-2px -2px 2px rgba(249,249,249,.8);
+	margin-bottom: 36px
+}
+
+.i-toefl-card .is-access {
+	border: 2px solid #ffe287;
+	width: 214px;
+	height: 174px;
+	position: relative;
+	cursor: pointer
+}
+
+.i-toefl-card .cards-access-t {
+	height: 128px;
+	background-image: url(../img/card-coupons.png);
+	background-repeat: no-repeat
+}
+
+.i-toefl-card .cards-box {
+	display: block
+}
+
+.i-toefl-card .is-access .cards-access-t {
+	background-position: 0 126px
+}
+
+.i-toefl-card .cards-access-name {
+	font-size: 18px;
+	font-weight: 700;
+	padding: 24px 0 8px
+}
+
+.i-toefl-card .cards-box span {
+	display: block;
+	text-align: center
+}
+
+.i-toefl-card .cards-access-user {
+	font-size: 14px
+}
+
+.i-toefl-card .cards-access-time {
+	font-size: 16px
+}
+
+.i-toefl-card .is-countdown {
+	color: #e56262
+}
+
+.i-toefl-card .wrap-content a:hover {
+	color: #333
+}
+
+.i-toefl-card .cards-clip {
+	position: absolute;
+	top: 118px;
+	left: -12px;
+	width: 19px;
+	height: 16px;
+	background: url(../img/card-coupons.png) 0 -3px no-repeat;
+	display: none
+}
+
+.i-toefl-card .is-access:hover .cards-clip {
+	display: block
+}
+
+.i-toefl-card .cards-access-b {
+	height: 47px;
+	line-height: 47px;
+	text-align: center;
+	font-size: 18px
+}
+
+.i-toefl-card .is-overdue {
+	border: 3px solid #fff;
+	width: 214px;
+	height: 174px;
+	background: #ecebf1
+}
+
+.i-toefl-card .is-overdue .cards-access-t {
+	background-position: -213px 126px
+}
+
+.s-dialog-submitObject .alert-buttons {
+	display: none
+}
+
+.s-dialog-submitObject .question-dialog {
+	padding: 0 30px;
+	background: url(../img/word_loading.gif) center center no-repeat
+}
+
+.s-dialog-submitObject .question-dialog-main {
+	padding: 10px 0;
+	background: #fff;
+	min-height: 200px
+}
+
+.s-dialog-submitObject .user-info {
+	font-size: 16px;
+	color: #cacacb;
+	line-height: 22px;
+	padding-bottom: 8px
+}
+
+.s-dialog-submitObject .title-msg {
+	font-size: 20px;
+	color: #000;
+	height: 30px;
+	line-height: 30px
+}
+
+.s-dialog-submitObject .list-question {
+	padding-bottom: 10px
+}
+
+.s-dialog-submitObject .question-num {
+	line-height: 22px
+}
+
+.s-dialog-submitObject .submit-btn {
+	width: 130px;
+	height: 34px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	background: #498af3;
+	line-height: 34px;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	cursor: pointer;
+	display: none;
+	margin-top: 6px
+}
+
+.s-dialog-submitObject .submit-btn:hover {
+	text-decoration: none;
+	opacity: .9
+}
+
+.s-dialog-submitObject .is-success-sub {
+	font-size: 40px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	padding: 60px 0 14px;
+	color: #00cc97
+}
+
+.s-dialog-submitObject .thanks-msg {
+	font-size: 16px;
+	height: 24px;
+	line-height: 24px;
+	text-align: center
+}
+
+.i-toefl-cardW {
+	height: 228px
+}
+
+.i-toefl-card .card-use-info {
+	padding: 0 16px
+}
+
+.i-toefl-card .left-cards {
+	width: 214px;
+	height: 130px;
+	background-image: url(../img/card-box-main.png);
+	background-repeat: no-repeat;
+	position: relative;
+	margin: 0 2px 0 4px;
+	display: block
+}
+
+.i-toefl-card .cards-list-1 {
+	background-position: -8px -8px
+}
+
+.i-toefl-card .cards-list-1:hover {
+	background-position: -9px -427px
+}
+
+.i-toefl-card .cards-list-2 {
+	background-position: -8px -148px
+}
+
+.i-toefl-card .cards-list-2:hover {
+	background-position: -9px -569px
+}
+
+.i-toefl-card .left-cards .l-num {
+	display: block;
+	width: 97px;
+	height: 36px;
+	position: absolute;
+	line-height: 44px;
+	padding-left: 28px;
+	-webkit-transform: translate(-42px,44px) rotate(-90deg);
+	-ms-transform: translate(-42px,44px) rotate(-90deg);
+	transform: translate(-42px,44px) rotate(-90deg);
+	color: #fff
+}
+
+.i-toefl-card .left-cards .r-info {
+	position: absolute;
+	width: 130px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	top: 64px;
+	left: 60px;
+	font-size: 20px
+}
+
+.i-toefl-card .is-time-out {
+	height: 28px;
+	line-height: 28px;
+	padding-top: 6px;
+	text-align: center
+}
+
+.s-recommend {
+	margin-bottom: 20px;
+	padding: 20px 30px;
+	height: 199px;
+	background: #fff
+}
+
+.s-recommend-loading {
+	background: #fff url(../img/word_loading.gif) no-repeat center center
+}
+
+.s-recommend .recommend-ico {
+	background: url(../img/recommend_ico.png) no-repeat;
+	display: inline-block;
+	vertical-align: middle
+}
+
+.s-recommend .close {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 14px;
+	height: 14px;
+	overflow: hidden;
+	background-position: 2px 2px;
+	display: none;
+	text-indent: -1000px
+}
+
+.s-recommend .close:hover {
+	background-position: -20px 2px;
+	background-color: #4c91ff
+}
+
+.s-recommend .recommend-button {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	z-index: 2
+}
+
+.s-recommend .recommend-hd {
+	margin-bottom: 14px;
+	padding-bottom: 14px;
+	border-bottom: 1px solid #eee
+}
+
+.s-recommend .recommend-hd .page-wrap {
+	padding-top: 5px
+}
+
+.s-recommend .recommend-hd .next {
+	width: 21px;
+	height: 17px;
+	background-position: -22px -15px
+}
+
+.s-recommend .recommend-hd .next:hover {
+	background-position: -22px -33px
+}
+
+.s-recommend .recommend-hd .prev {
+	width: 21px;
+	height: 17px;
+	background-position: 0 -15px
+}
+
+.s-recommend .recommend-hd .prev:hover {
+	background-position: 0 -33px
+}
+
+.s-recommend .recommend-hd .page {
+	padding: 0 4px;
+	vertical-align: middle;
+	color: #999
+}
+
+.s-recommend .recommend-hd .current-page {
+	color: #ff7124
+}
+
+.s-recommend .recommend-list {
+	overflow: hidden
+}
+
+.s-recommend .recommend-content {
+	position: relative;
+	float: left;
+	height: 140px
+}
+
+.s-recommend .recommend-content:hover .close {
+	display: block
+}
+
+.s-recommend .ill-wrap {
+	float: left;
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	margin-right: 20px
+}
+
+.s-recommend .ill-wrap .ill {
+	width: 100px
+}
+
+.s-recommend .article {
+	float: right;
+	width: 530px
+}
+
+.s-recommend .article .article-title {
+	margin-bottom: 10px
+}
+
+.s-recommend .article .article-content p {
+	margin-top: 10px
+}
+
+.i-toefl-free-plan {
+	width: 980px;
+	height: 0;
+	margin: 0 auto;
+	background: #fff url(/dist/common/css/img/word_loading.gif) center center no-repeat
+}
+
+.i-toefl-free-plan .free-plan-wrap {
+	width: 980px;
+	height: 82px;
+	background: url(../img/free-plan-bg.jpg) no-repeat
+}
+
+.i-toefl-free-plan .plan-left-title {
+	float: left;
+	width: 108px;
+	height: 82px;
+	overflow: hidden;
+	border-right: 1px solid #373953
+}
+
+.i-toefl-free-plan .plan-left-title>span {
+	display: block;
+	margin: 0 auto;
+	text-align: center
+}
+
+.i-toefl-free-plan .plan-left-title .plan-t1 {
+	font-size: 24px;
+	color: #fff;
+	padding-top: 16px;
+	line-height: 28px
+}
+
+.i-toefl-free-plan .plan-left-title .plan-t2 {
+	font-size: 14px;
+	line-height: 24px;
+	color: #fff
+}
+
+.i-toefl-free-plan .plan-left-title .plan-t3 {
+	font-size: 20px;
+	line-height: 24px;
+	color: #fff;
+	padding-top: 26px
+}
+
+.i-toefl-free-plan .plan-right-content {
+	float: left;
+	width: 870px;
+	height: 82px
+}
+
+.i-toefl-free-plan .plan-right-content .plan-cont-1 {
+	float: left;
+	padding: 0 23px;
+	height: 44px;
+	margin-top: 20px;
+	border-right: 1px solid #515159
+}
+
+.i-toefl-free-plan .plan-right-content .plan-cont-title1 {
+	height: 44px;
+	line-height: 44px;
+	color: #b8b8b8;
+	text-decoration: underline
+}
+
+.i-toefl-free-plan .plan-right-content .plan-cont-2 {
+	float: left;
+	padding: 0 25px;
+	margin-top: 20px;
+	border-right: 1px solid #515159
+}
+
+.i-toefl-free-plan .plan-right-content .plan-cont-2>div {
+	float: left;
+	margin-top: -2px;
+	text-align: center
+}
+
+.i-toefl-free-plan .plan-right-content .plan-cont-2 span {
+	display: block
+}
+
+.i-toefl-free-plan .plan-wrap-time {
+	width: 76px;
+	padding-right: 44px
+}
+
+.i-toefl-free-plan .wrap-time-u {
+	font-size: 30px;
+	color: #fff;
+	line-height: 30px
+}
+
+.i-toefl-free-plan .wrap-time-d {
+	color: #fff;
+	line-height: 20px
+}
+
+.i-toefl-free-plan .plan-wrap-total {
+	width: 60px;
+	padding-right: 54px
+}
+
+.i-toefl-free-plan .plan-wrap-random {
+	width: 74px;
+	padding-right: 32px;
+	position: relative
+}
+
+.i-toefl-free-plan .plan-wrap-random .wrap-time-u {
+	color: #ffd800
+}
+
+.i-toefl-free-plan .plan-wrap-random .wrap-time-d {
+	text-align: left;
+	position: relative;
+	color: #ffd800
+}
+
+.i-toefl-free-plan .plan-wrap-random .tips {
+	width: 14px;
+	height: 14px;
+	font-size: 12px;
+	border-radius: 7px;
+	background: #ffd800;
+	color: #2b2c3f;
+	position: absolute;
+	right: 0;
+	top: 2px;
+	text-align: center;
+	line-height: 16px;
+	cursor: pointer
+}
+
+.i-toefl-free-plan .plan-wrap-random .random-tips {
+	position: absolute;
+	bottom: -40px;
+	left: -48px;
+	width: 230px;
+	height: 16px;
+	padding: 10px 12px;
+	line-height: 16px;
+	color: #999;
+	background: #fff;
+	display: none
+}
+
+.i-toefl-free-plan .plan-wrap-random .tips:hover .random-tips {
+	display: block
+}
+
+.i-toefl-free-plan .plan-right-content .plan-cont-3 {
+	float: left;
+	padding: 20px 0 0 28px
+}
+
+.i-toefl-free-plan .is-receive-button {
+	display: block;
+	width: 130px;
+	height: 44px;
+	line-height: 44px;
+	background: #4c91ff;
+	color: #fff;
+	text-align: center;
+	border-radius: 3px;
+	font-size: 16px
+}
+
+.i-toefl-free-plan .is-receive-button.is-disabled {
+	background: #cccdcd;
+	cursor: not-allowed
+}
+
+.i-toefl-free-plan .is-receive-button:hover {
+	text-decoration: none;
+	opacity: .9
+}
+
+.i-toefl-free-plan .wrap-time-running {
+	font-size: 16px;
+	color: #ffd800
+}
+
+.i-toefl-free-plan .plan-right-content .plan-login {
+	width: 650px;
+	padding: 0 20px;
+	margin-top: 20px;
+	text-align: center;
+	float: left
+}
+
+.i-toefl-free-plan .plan-right-content .plan-login p {
+	height: 44px;
+	line-height: 44px;
+	color: #fff
+}
+
+.i-toefl-free-plan .plan-cont-random {
+	float: left;
+	width: 459px;
+	margin-top: 20px;
+	height: 44px;
+	line-height: 44px;
+	border-right: 1px solid #515159;
+	text-align: center
+}
+
+.i-toefl-free-plan .plan-cont-random p {
+	font-size: 24px;
+	color: #f5cf01
+}
+
+.i-toefl-free-plan .plan-random-wrap {
+	padding-right: 28px!important
+}
+
+.i-toefl-free-planwrap {
+	width: 100%;
+	height: 114px;
+	position: fixed;
+	bottom: -114px;
+	left: 0;
+	right: 0;
+	background: #cececf;
+	min-width: 1280px;
+	z-index: 10
+}
+
+.i-toefl-free-planwrap .free-planwrap-main {
+	width: 1280px;
+	height: 114px;
+	margin: 0 auto;
+	position: relative
+}
+
+.i-toefl-free-planwrap .free-planwrap-main .free-main {
+	width: 980px;
+	margin: 0 auto;
+	margin-top: 32px
+}
+
+.i-toefl-free-planwrap .free-main .p1 {
+	float: left;
+	height: 50px;
+	line-height: 50px;
+	font-size: 16px;
+	color: #333;
+	margin-right: 42px
+}
+
+.i-toefl-free-planwrap .free-main .p2 {
+	float: left;
+	height: 50px;
+	line-height: 50px;
+	margin-right: 48px
+}
+
+.i-toefl-free-planwrap .free-main .p3-time {
+	float: left;
+	width: 78px;
+	text-align: center;
+	margin-right: 70px
+}
+
+.i-toefl-free-planwrap .free-main .p3-time>span {
+	display: block
+}
+
+.i-toefl-free-planwrap .free-main .p3-time .t1 {
+	font-size: 30px;
+	color: #f77982;
+	line-height: 34px
+}
+
+.i-toefl-free-planwrap .free-main .p3-time .t2 {
+	color: #f77982;
+	line-height: 18px
+}
+
+.i-toefl-free-planwrap .free-main .plan-btn {
+	float: left;
+	width: 130px;
+	height: 45px;
+	line-height: 45px;
+	text-align: center;
+	background: #4c91ff;
+	color: #fff;
+	font-size: 16px;
+	border-radius: 3px
+}
+
+.i-toefl-free-planwrap .free-main .plan-btn:hover {
+	text-decoration: none;
+	opacity: .9
+}
+
+.i-toefl-free-planwrap .give-up-button {
+	position: absolute;
+	right: 12px;
+	top: -30px
+}
+
+.i-toefl-free-planwrap .give-up-button span {
+	color: #4c91ff;
+	line-height: 18px;
+	display: inline-block
+}
+
+.i-toefl-free-planwrap .give-up-button i {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	background: #bababa;
+	color: #d0d0d0;
+	font-size: 14px;
+	text-align: center;
+	cursor: pointer
+}
+
+.i-toefl-free-plan .is-today-count .wrap-time-d,.i-toefl-free-plan .is-today-count .wrap-time-u {
+	color: #fff!important
+}
+
+.i-toefl-free-plan .is-today-count .tips {
+	background: #fff
+}
+
+.i-nocontent {
+	width: 100%;
+	height: 263px;
+	margin-top: 30px;
+	background: url(../img/noparactice.png) no-repeat center top;
+	text-indent: -9999px
+}
+
+.header {
+	margin-bottom: 30px
+}
+
+a:hover {
+	text-decoration: underline
+}
+
+::-webkit-scrollbar {
+	width: 10px
+}
+
+::-webkit-scrollbar-thumb {
+	border: 0;
+	border-radius: 6px;
+	background: #d9d9d9
+}
+
+::-webkit-scrollbar-button {
+	display: none
+}
+
+.i-toefl-hot {
+	position: absolute;
+	right: 13px;
+	top: 4px;
+	width: 34px;
+	height: 18px;
+	display: block;
+	background: url(../img/common-ico.png) no-repeat -30px -287px
+}
+
+.g-navigator-v3 .nav-list li.i-hot {
+	position: relative
+}
+
+.g-navigator-v3 .nav-list li.i-hot:before {
+	content: "";
+	position: absolute;
+	right: -18px;
+	top: 4px;
+	background: url(../img/common-ico.png) no-repeat -30px -287px;
+	width: 34px;
+	height: 18px
+}
+
+.s-kmf-progress {
+	width: 660px;
+	margin: 0 auto
+}
+
+.s-kmf-progress .jp-seek-bar {
+	position: relative;
+	height: 36px;
+	border-radius: 18px;
+	overflow: hidden;
+	border: 1px solid #d2d2d2;
+	background: #fff
+}
+
+.s-kmf-progress .s-kmf-play-bar {
+	position: absolute;
+	top: -1px;
+	left: 0;
+	height: 35px;
+	overflow: hidden;
+	border-radius: 18px;
+	border: 1px solid #73b120;
+	border-top: 1px solid #679e26;
+	background: url(../img/progress_l.png) repeat-x
+}
+
+.s-kmf-progress .update-time {
+	padding-top: 20px;
+	text-align: center
+}
+
+.i-practise-wrap .practice-type-1 {
+	padding-top: 120px;
+	text-align: center
+}
+
+.i-practise-wrap .practice-type-1 .illustrator {
+	margin-bottom: 20px;
+	border: 10px solid #9c9c9c
+}
+
+.i-practise-wrap .practice-type-1 .tips-en {
+	padding-bottom: 20px;
+	font-size: 30px
+}
+
+.i-practise-wrap .practice-type-1 .sound-test {
+	line-height: 36px
+}
+
+.i-practise-wrap .practice-type-1 .sound-ico {
+	width: 30px;
+	height: 17px;
+	padding-top: 3px;
+	overflow: hidden;
+	margin-right: 6px;
+	border-radius: 2px;
+	display: inline-block;
+	background: #7e7e7e;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 0;
+	cursor: pointer
+}
+
+@media screen and (max-width:425px) {
+	.i-practise-wrap .practice-type-1 {
+		padding-top: 0
+	}
+
+	.i-practise-wrap .practice-type-1 .illustrator {
+		width: 100%;
+		border: 0
+	}
+}
+
+.i-practise-wrap .practice-type-2 {
+	padding-top: 120px;
+	text-align: center
+}
+
+.i-practise-wrap .practice-type-2 .ill-body {
+	position: relative;
+	width: 403px;
+	height: 302px;
+	margin: 0 auto 60px;
+	background: url(../img/illbg.png) no-repeat
+}
+
+.i-practise-wrap .practice-type-2 .illustrator {
+	position: absolute;
+	left: 13px;
+	top: 20px;
+	z-index: 1;
+	width: 377px;
+	opacity: .4;
+	filter: alpha(opacity=40)
+}
+
+.i-practise-wrap .practice-type-2 .ill-body .desc {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	z-index: 2;
+	width: 316px;
+	margin: -30px 0 0 -158px;
+	line-height: 30px;
+	color: #fff
+}
+
+.i-practise-wrap .practice-type-3 .ill-body {
+	padding: 80px 0;
+	text-align: center
+}
+
+.i-practise-body {
+	width: 920px;
+	margin: 30px auto 0;
+	padding: 30px 30px 0
+}
+
+.i-practise-body .practice-title {
+	margin-bottom: 30px
+}
+
+.i-practise-body .practice-title .title-text {
+	width: 227px;
+	height: 35px;
+	background-position: 0 -218px;
+	line-height: 35px;
+	color: #fff;
+	text-align: center;
+	font-size: 20px
+}
+
+.i-practise-body .practice-title .title-tips-play {
+	display: inline-block;
+	margin-left: 30px;
+	background: url(../img/iconfont-danciku.png) 0 1px no-repeat;
+	vertical-align: middle;
+	padding-left: 25px;
+	height: 20px;
+	line-height: 20px
+}
+
+.i-practise-body .question {
+	margin-bottom: 20px
+}
+
+.i-practise-body .listen {
+	width: 30px;
+	height: 30px;
+	margin-left: 4px;
+	background: url(../img/i-tpo-read-template.png) no-repeat;
+	display: inline-block;
+	vertical-align: middle
+}
+
+.i-practise-body .answers-checkbox input,.i-practise-body .answers-radio input {
+	display: none
+}
+
+.i-practise-body .answers-checkbox .normal,.i-practise-body .answers-radio .normal {
+	font-size: 20px;
+	margin-bottom: 16px
+}
+
+.i-practise-body .answers-tips {
+	padding: 20px 0 0 30px
+}
+
+.i-practise-body .js-answers {
+	display: none
+}
+
+.i-practise-body .reference-answer .g-hl-3 {
+	padding-right: 30px
+}
+
+.i-practise-body .ear-cup {
+	width: 30px;
+	height: 30px;
+	margin-left: 4px;
+	background: url(../img/i-tpo-read-template.png) no-repeat;
+	display: inline-block;
+	vertical-align: middle;
+	cursor: pointer
+}
+
+.i-practise-sort {
+	width: 860px
+}
+
+.i-practise-sort .answers-tips-sort {
+	padding: 10px 0;
+	margin-bottom: 20px;
+	background: #c7c7c7;
+	line-height: 30px;
+	text-align: center
+}
+
+.i-practise-sort .answers-sorts li {
+	height: 30px;
+	margin-bottom: 10px
+}
+
+.i-practise-sort .sort-origin {
+	position: relative;
+	z-index: 4;
+	cursor: move
+}
+
+.i-practise-sort .sort-target {
+	width: 100%;
+	padding: 8px 0 8px 8px;
+	margin-bottom: 12px;
+	border: 1px solid #d2d2d2;
+	box-sizing: border-box;
+	text-align: left
+}
+
+.i-practise-sort .in-selecting {
+	border: 1px solid #089900
+}
+
+.i-practise-yesno .answers-tips-yesno {
+	height: 80px;
+	margin-bottom: 20px;
+	overflow: hidden;
+	background: #c7c7c7;
+	line-height: 80px;
+	text-align: center
+}
+
+.i-practise-yesno .list {
+	float: right
+}
+
+.i-practise-yesno .list li {
+	float: left;
+	width: 160px;
+	height: 45px;
+	overflow: hidden;
+	margin: 0;
+	line-height: 45px
+}
+
+.i-practise-yesno .answers-checkbox li {
+	width: 80px;
+	margin-right: 80px
+}
+
+.i-practise-yesno .list .split {
+	padding-right: 8px;
+	color: #b7b7b7
+}
+
+.i-practise-yesno .answers {
+	border: 1px solid #d2d2d2;
+	overflow: hidden
+}
+
+.i-practise-yesno .answers .p-th {
+	background: #e7e0e0
+}
+
+.i-practise-yesno .answers .p-th li {
+	height: auto;
+	line-height: 1.3;
+	padding: 5px 0
+}
+
+.i-practise-yesno .answers .p-tr {
+	border-top: 1px solid #d2d2d2;
+	height: 45px;
+	overflow: hidden;
+	background: #fff;
+	line-height: 45px
+}
+
+.i-practise-yesno .answers .sub-question {
+	padding-left: 20px
+}
+
+.i-r-ans {
+	color: #089900!important
+}
+
+.i-tpo-read-template {
+	padding: 0 70px
+}
+
+.i-tpo-template-title {
+	line-height: 130px;
+	text-align: center;
+	font-size: 28px
+}
+
+.i-tpo-template-info,.i-tpo-template-info-h {
+	line-height: 30px;
+	font-size: 18px;
+	color: #7f7f80;
+	padding-bottom: 20px
+}
+
+.i-tpo-template-hint {
+	font-size: 20px;
+	font-weight: 700;
+	color: #333
+}
+
+.i-tpo-read-template .listen {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	background: url(../img/i-tpo-read-template.png) no-repeat
+}
+
+.i-tpo-header {
+	position: relative;
+	height: 130px;
+	padding: 0 20px;
+	background-color: #660019;
+	background-image: url(/dist/toefl_exam/css/img/examheader.jpg) repeat-y;
+	background-image: -webkit-linear-gradient(right,#650019 0,#002f67 100%);
+	background-image: -moz-linear-gradient(right,#650019 0,#002f67 100%);
+	background-image: -ms-linear-gradient(right,#650019 0,#002f67 100%);
+	background-image: -o-linear-gradient(right,#650019 0,#002f67 100%);
+	background-image: linear-gradient(right,#650019 0,#002f67 100%)
+}
+
+.i-tpo-header .article {
+	padding-top: 30px
+}
+
+.i-tpo-header .logo {
+	width: 194px;
+	height: 66px;
+	overflow: hidden;
+	float: left;
+	background: url(../img/logo-gold.png) no-repeat;
+	display: block;
+	text-indent: -1000px
+}
+
+.i-tpo-header .tpo-title {
+	float: left;
+	padding-top: 20px;
+	color: #e0e0e0
+}
+
+.i-tpo-header .aside {
+	position: absolute;
+	bottom: 13px;
+	right: 20px
+}
+
+.i-tpo-header .button-list {
+	padding-bottom: 8px
+}
+
+.i-tpo-header .aside .history-back {
+	float: right;
+	height: 30px
+}
+
+.i-tpo-header .aside .history-back .back {
+	color: #a0a2af
+}
+
+.i-tpo-header .aside .history-back .back:hover {
+	color: #fff;
+	text-decoration: none
+}
+
+.i-tpo-header .button-list li {
+	float: left;
+	margin-right: 8px
+}
+
+.i-tpo-header .button-list .g-floatright {
+	float: right
+}
+
+.i-tpo-header .btn-exam {
+	width: 82px;
+	height: 60px;
+	overflow: hidden;
+	background: url(../img/exam_buttons.png) no-repeat;
+	display: block;
+	text-indent: -1000px
+}
+
+.i-tpo-header .btn-review {
+	background-position: -183px -284px
+}
+
+.i-tpo-header .btn-review:hover {
+	background-position: -90px -284px
+}
+
+.i-tpo-header .btn-review:active {
+	background-position: 0 -284px
+}
+
+.i-tpo-header .btn-review-disabled,.i-tpo-header .btn-review-disabled:active,.i-tpo-header .btn-review-disabled:hover {
+	background-position: -273px -284px;
+	cursor: default
+}
+
+.i-tpo-header .btn-back {
+	background-position: -183px -142px
+}
+
+.i-tpo-header .btn-back:hover {
+	background-position: -90px -142px
+}
+
+.i-tpo-header .btn-back:active {
+	background-position: 0 -142px
+}
+
+.i-tpo-header .btn-back-disabled,.i-tpo-header .btn-back-disabled:active,.i-tpo-header .btn-back-disabled:hover {
+	background-position: -273px -142px;
+	cursor: default
+}
+
+.i-tpo-header .btn-volume {
+	background-position: -183px 0
+}
+
+.i-tpo-header .btn-volume:hover {
+	background-position: -90px 0
+}
+
+.i-tpo-header .btn-volume:active {
+	background-position: 0 0
+}
+
+.i-tpo-header .btn-volume-disabled,.i-tpo-header .btn-volume-disabled:active,.i-tpo-header .btn-volume-disabled:hover {
+	background-position: -273px 0;
+	cursor: default
+}
+
+.i-tpo-header .btn-ok {
+	background-position: -183px -214px
+}
+
+.i-tpo-header .btn-ok:hover {
+	background-position: -90px -214px
+}
+
+.i-tpo-header .btn-ok:active {
+	background-position: 0 -214px
+}
+
+.i-tpo-header .btn-ok-disabled,.i-tpo-header .btn-ok-disabled:active,.i-tpo-header .btn-ok-disabled:hover {
+	background-position: -273px -214px;
+	cursor: default
+}
+
+.i-tpo-header .btn-exam-next {
+	background-position: -183px -72px
+}
+
+.i-tpo-header .btn-exam-next:hover {
+	background-position: -90px -72px
+}
+
+.i-tpo-header .btn-exam-next:active {
+	background-position: 0 -72px
+}
+
+.i-tpo-header .btn-exam-next-disabled,.i-tpo-header .btn-exam-next-disabled:active,.i-tpo-header .btn-exam-next-disabled:hover {
+	background-position: -273px -72px;
+	cursor: default
+}
+
+.i-tpo-header .btn-return {
+	background-position: -183px -516px
+}
+
+.i-tpo-header .btn-return:hover {
+	background-position: -90px -516px
+}
+
+.i-tpo-header .btn-return:active {
+	background-position: 0 -516px
+}
+
+.i-tpo-header .btn-return-disabled,.i-tpo-header .btn-return-disabled:active,.i-tpo-header .btn-return-disabled:hover {
+	background-position: -273px -516px;
+	cursor: default
+}
+
+.i-tpo-header .btn-view-text {
+	width: 110px;
+	height: 52px;
+	margin: 5px 30px 0 0;
+	background-position: 0 -352px
+}
+
+.i-tpo-header .btn-view-text:hover {
+	background-position: -119px -352px
+}
+
+.i-tpo-header .btn-view-text:active {
+	background-position: -240px -352px
+}
+
+.i-tpo-header .btn-view-question {
+	width: 110px;
+	height: 52px;
+	margin: 5px 30px 0 0;
+	background-position: 0 -582px
+}
+
+.i-tpo-header .btn-view-question:hover {
+	background-position: -119px -582px
+}
+
+.i-tpo-header .btn-view-question:active {
+	background-position: -240px -582px
+}
+
+.i-tpo-header .btn-continue {
+	width: 102px;
+	height: 35px;
+	background-position: 0 -418px;
+	text-align: left
+}
+
+.i-tpo-header .btn-continue:hover {
+	background-position: -119px -418px
+}
+
+.i-tpo-header .btn-continue:active {
+	background-position: -240px -418px
+}
+
+.i-tpo-header .btn-continue-disabled,.i-tpo-header .btn-continue-disabled:active,.i-tpo-header .btn-continue-disabled:hover {
+	background-position: -355px -418px;
+	cursor: default
+}
+
+.i-tpo-header .btn-showtime {
+	width: 102px;
+	height: 35px;
+	padding-right: 2px;
+	margin-left: 10px;
+	background-position: 0 -468px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	color: #333;
+	text-indent: 0;
+	line-height: 32px
+}
+
+.i-tpo-header .btn-showtime:hover {
+	background-position: -119px -468px;
+	color: #333;
+	text-decoration: none
+}
+
+.i-tpo-header .btn-showtime:active {
+	background-position: -240px -468px
+}
+
+.i-tpo-header .s-hide {
+	display: none
+}
+
+.i-tpo-header .duration-time {
+	padding-right: 8px;
+	height: 35px;
+	overflow: hidden;
+	text-align: right;
+	color: #fff
+}
+
+.i-tpo-header .btn-quit {
+	margin-right: 50px
+}
+
+.i-tpo-header .control-vol {
+	position: relative;
+	z-index: 2
+}
+
+.i-tpo-header .control-vol .submenu {
+	position: relative;
+	width: 88px;
+	height: 24px;
+	border: 1px solid #abaaaa;
+	margin-top: 12px;
+	border-radius: 12px;
+	display: none;
+	background: #abaaaa
+}
+
+.i-tpo-header .control-vol .volume-progress {
+	position: absolute;
+	left: 10px;
+	top: 11px;
+	height: 3px;
+	width: 66px;
+	background: #f4f4f4
+}
+
+.i-tpo-header .control-vol .play-volume {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 17px;
+	height: 14px;
+	background-position: 0 0;
+	display: none
+}
+
+.i-tpo-header .control-vol .ui-slider-range {
+	position: absolute;
+	z-index: 1;
+	height: 3px;
+	overflow: hidden;
+	background: #5aa8f7
+}
+
+.i-tpo-header .control-vol .ui-slider-handle {
+	position: absolute;
+	z-index: 2;
+	top: -6px;
+	width: 12px;
+	height: 12px;
+	overflow: hidden;
+	margin-left: -6px;
+	background: url(../img/toefl_ico.png) no-repeat 0 -20px
+}
+
+@media screen and (max-width:425px) {
+	.i-tpo-header .tpo-title {
+		display: none
+	}
+}
+
+.i-tpo-header .fontSize {
+	display: block;
+	width: 130px;
+	height: 24px;
+	position: relative;
+	overflow: inherit
+}
+
+.i-tpo-header .fontSize p {
+	width: 130px;
+	text-align: center;
+	position: absolute;
+	top: 0
+}
+
+.i-tpo-header .fontSize li {
+	margin-right: 0
+}
+
+.i-tpo-header .fontSize .font-list {
+	position: absolute;
+	width: 108px;
+	border: 1px solid #e2e2e2;
+	border-top: none;
+	top: 25px;
+	left: 10px;
+	z-index: 10;
+	background: #fff;
+	display: none
+}
+
+.i-tpo-header .fontSize .font-list li {
+	border-top: 1px solid #e2e2e2;
+	width: 98px;
+	height: 28px;
+	line-height: 28px;
+	padding-left: 10px
+}
+
+.i-tpo-header .fontSize:hover {
+	opacity: 1
+}
+
+.i-tpo-header .fontSize:hover p {
+	opacity: .8
+}
+
+.i-tpo-header .fontSize:hover .font-list li {
+	color: #333
+}
+
+.i-tpo-header .fontSize .font-list li:hover {
+	background: #efefef
+}
+
+.i-tpo-header .practice-title {
+	position: absolute;
+	left: 50%;
+	bottom: 10px;
+	width: 400px;
+	margin-left: -200px;
+	margin-bottom: 0;
+	text-align: center
+}
+
+.i-tpo-header .practice-title .title-text {
+	background: 0 0;
+	color: #fff;
+	white-space: nowrap;
+	font-size: 20px
+}
+
+.g-kmf-form .normal {
+	position: relative;
+	padding-left: 30px
+}
+
+.g-kmf-form .normal .g-checkbox,.g-kmf-form .normal .g-radio {
+	position: absolute;
+	left: 0;
+	top: 5px
+}
+
+.g-kmf-form .content-text .option {
+	display: block;
+	float: left;
+	margin-right: 10px
+}
+
+.g-kmf-form .content-text .main {
+	float: left;
+	width: 526px
+}
+
+.zone {
+	background: url(../img/view-body.png) top center repeat-y
+}
+
+.i-read-cont {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	min-width: 1200px;
+	overflow: hidden
+}
+
+.review-btn {
+	padding-bottom: 10px
+}
+
+.review-btn li {
+	float: right;
+	margin-right: 8px
+}
+
+.duration-time {
+	float: right;
+	*+float: left
+}
+
+.duration-time .btn-time {
+	margin: 0 10px
+}
+
+.btn-showtime2 {
+	border: 1px solid #2d2d2d;
+	color: #f5f5f5
+}
+
+.height {
+	width: 100%;
+	height: 30px
+}
+
+.g-tof-wrapper {
+	width: 1200px;
+	margin: 0 auto
+}
+
+.i-read-view {
+	border: 1px solid #d2d2d2;
+	margin-bottom: 20px;
+	background: #fff;
+	width: 99.8%;
+	height: 99.8%;
+	overflow: hidden
+}
+
+.read-view-title {
+	height: 65px;
+	padding: 0 62px 0 27px;
+	border-bottom: 1px solid #d2d2d2;
+	font-size: 24px;
+	line-height: 65px
+}
+
+.read-view-title .l {
+	float: left
+}
+
+.read-view-title .r {
+	float: right;
+	width: 228px;
+	text-align: center
+}
+
+.read-view-main {
+	width: 100%;
+	height: 94%;
+	overflow: hidden;
+	overflow-y: scroll
+}
+
+.read-view-list {
+	overflow: hidden;
+	padding: 4px 62px 0 27px
+}
+
+.read-view-fulfil {
+	width: 100%;
+	height: 30px;
+	border: 1px dashed #c4c4c4;
+	margin: 6px 0;
+	cursor: pointer
+}
+
+.read-conent-tit {
+	float: left;
+	width: 76%;
+	height: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	padding-left: 22px
+}
+
+.no-fulfil {
+	border: 1px dashed #000;
+	font-weight: 700
+}
+
+.read-view-answer {
+	float: right;
+	width: 20%;
+	height: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	text-align: center
+}
+
+.active-view {
+	background: #fefdef
+}
+
+.ready-title {
+	line-height: 130px;
+	text-align: center;
+	font-size: 28px
+}
+
+.ready-read-info,.ready-read-info-h {
+	line-height: 30px;
+	font-size: 18px;
+	color: #7f7f80;
+	padding-bottom: 10px
+}
+
+.ready-read-hint {
+	font-size: 20px;
+	font-weight: 700;
+	color: #333
+}
+
+.i-view-wrapper {
+	width: 100%;
+	overflow: hidden;
+	margin: 0 auto;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 160px;
+	bottom: 30px
+}
+
+.view-text-content {
+	width: 1200px;
+	margin: 0 auto;
+	height: 100%;
+	overflow: hidden
+}
+
+.view-text-scroll {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+	overflow-y: auto
+}
+
+.view-text-l {
+	width: 600px;
+	height: 100%;
+	min-height: 100px;
+	float: left;
+	padding-top: 30px;
+	overflow: hidden;
+	overflow-y: scroll
+}
+
+.view-text-r {
+	width: 590px;
+	height: 90%;
+	*+height: 1000px;
+	float: left;
+	overflow: hidden;
+	overflow-y: scroll
+}
+
+.view-text-r-tit {
+	padding: 30px 0 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #333
+}
+
+.view-text-r-main {
+	font-size: 16px;
+	line-height: 26px;
+	padding: 0 20px 30px;
+	color: #000
+}
+
+.view-text-empty {
+	height: 120px
+}
+
+.view-text-empty2 {
+	height: 50px
+}
+
+.view-padding {
+	padding-bottom: 120px
+}
+
+.view-quit {
+	margin-right: 60px
+}
+
+.question {
+	font-size: 20px;
+	line-height: 26px;
+	margin-bottom: 20px
+}
+
+.strong-line {
+	background: #c2bfbf;
+	font-weight: 700;
+	padding: 0 6px
+}
+
+.strong-insert {
+	background: #000;
+	width: 10px;
+	height: 20px;
+	display: inline-block;
+	margin: 0 8px;
+	vertical-align: middle
+}
+
+.practice-title {
+	margin-bottom: 30px
+}
+
+.last-practice-title {
+	padding-top: 30px
+}
+
+.g-checkbox input,.g-radio input {
+	display: none
+}
+
+.answers-checkbox li,.answers-radio li {
+	font-size: 16px;
+	margin-bottom: 16px
+}
+
+.view-read-use {
+	font-size: 16px;
+	font-weight: 700;
+	padding-left: 30px
+}
+
+.view-read-use-no {
+	padding-left: 0
+}
+
+.read-summary-info {
+	padding: 30px 0;
+	line-height: 30px;
+	font-size: 20px
+}
+
+.read-summary-info strong {
+	font-weight: 700
+}
+
+.read-summary-drag {
+	width: 800px;
+	height: 60px;
+	border: 1px solid #d2d2d2;
+	background: #fff;
+	margin: 0 auto 30px;
+	overflow: hidden
+}
+
+.sort-target {
+	width: 100%;
+	padding: 8px 0 8px 8px;
+	box-sizing: border-box;
+	text-align: left;
+	height: 100%;
+	border: 1px solid #fff
+}
+
+.read-summary-change {
+	margin: 10px auto
+}
+
+.read-change-title {
+	line-height: 80px;
+	text-align: center;
+	font-size: 24px
+}
+
+.read-change-main {
+	width: 100%;
+	margin: 0 auto;
+	position: relative
+}
+
+.read-change-box {
+	float: left;
+	width: 558px;
+	height: 114px;
+	min-height: 78px;
+	border: 1px solid #d2d2d2;
+	background: #fff;
+	margin-right: 80px;
+	margin-bottom: 24px
+}
+
+.read-change-box .sort-origin {
+	position: relative;
+	height: 86px;
+	min-height: 50px;
+	overflow: hidden;
+	padding: 12px 50px 16px 10px;
+	display: block;
+	font-size: 16px;
+	line-height: 28px;
+	cursor: move
+}
+
+.no-right {
+	margin-right: 0
+}
+
+.read-change-box i {
+	display: block;
+	float: left
+}
+
+.read-change-box p {
+	float: left;
+	width: 472px
+}
+
+.read-summary-click {
+	line-height: 120px;
+	text-align: center;
+	font-size: 24px;
+	color: #000
+}
+
+.read-classfiy-ans {
+	margin: 0 auto;
+	overflow: hidden
+}
+
+.read-classfiy-l {
+	float: left;
+	width: 580px;
+	margin-right: 40px
+}
+
+.read-classfiy-ansT {
+	line-height: 60px;
+	font-size: 24px;
+	color: #000
+}
+
+.read-classfiy-r {
+	width: 580px;
+	float: left
+}
+
+.read-calssfiy-boxR {
+	width: 99%;
+	border: 1px solid #d2d2d2;
+	background: #fff;
+	margin-bottom: 18px
+}
+
+.read-classfiy-drag {
+	width: 90%;
+	height: 60px;
+	border: 1px solid #d2d2d2;
+	background: #fff;
+	margin: 0 auto 20px;
+	overflow: hidden
+}
+
+.read-classfiy-boxRt {
+	line-height: 60px;
+	font-size: 20px;
+	padding-left: 29px
+}
+
+.strong-star {
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	line-height: 24px;
+	font-size: 20px
+}
