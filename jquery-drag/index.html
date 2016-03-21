@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<title>jQuery UI拖拽拖放插件jquery.top-droppable | DEMO_jQuery之家-自由分享jQuery、html5、css3的插件库</title>
+	
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/sweet-alert.css">
+</head>
+<body>
+	<div class="container">
+		<header>
+			<h1><span>拖动小猫到三幅图片上</span> (Drag the cat into one of the rectangles)</h1>
+			<p>更多精彩内容请关注：<a href="http://www.htmleaf.com/" target="_blank">jQuery之家</a></p>
+		</header>
+		<div class="htmleaf-demo">
+			<div id="river" class="top-droppable"></div>
+			<div id="space" class="top-droppable"></div>
+			<div id="storm" class="top-droppable"></div>
+		
+			<div id="draggable"></div>
+		</div>
+	</div>
+<script type="text/javascript" src="http://libs.useso.com/js/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/jquery.top-droppable.js"></script>
+<script type="text/javascript" src="js/sweet-alert.min.js"></script>
+
+
+<script>
+
+$(function() {
+
+	$("#draggable").draggable({
+	    revert: true
+	});
+
+
+	$(".top-droppable").topDroppable({
+	    drop: function (e, ui) {
+	        //alert("dropped into " + $(this).attr('id'));
+	        sweetAlert({   title: "可恶！",   text: "你竟然把我扔到"+$(this).attr('id')+"里面。",   imageUrl: "img/little_gray_14.png" });
+	    }
+	}).droppable({
+	    tolerance: "pointer"
+	});
+
+});
+
+</script>
+</body>
+</html>
